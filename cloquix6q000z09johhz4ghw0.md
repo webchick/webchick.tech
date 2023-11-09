@@ -63,6 +63,10 @@ Here's the result:
 
 Pretty nifty! :D
 
+# Hey, wait! There's no actual code?!
+
+We'll dive into how to make a standalone app with the API in a future tutorial, but for now—no! Just a few form fields filled out and voila—you have something you can play with. :)
+
 # Further Reading
 
 * [Assistants API](https://platform.openai.com/docs/assistants/overview)
