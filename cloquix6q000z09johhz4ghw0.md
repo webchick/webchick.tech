@@ -8,13 +8,33 @@ tags: ai, generative-ai, chatgpt
 
 ---
 
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>UPDATE 2023-11-12</strong>: Well that was quick! This tutorial no longer applies. See <a target="_blank" rel="noopener noreferrer nofollow" href="https://webchick.tech/creating-your-own-gpts-a-getting-started-guide" style="pointer-events: none">https://webchick.tech/creating-your-own-gpts-a-getting-started-guide</a></div>
+</div>
+
 In today's installment of Tech Around And Find Out, we dig into the wild world of Generative AI.
 
 Earlier this week, [OpenAI DevDay](https://devday.openai.com/) took place, and the Internet has been abuzz since with the various [announcements](https://openai.com/blog/new-models-and-developer-products-announced-at-devday) that happened there.
 
-One of those was the new [Assistants API](https://platform.openai.com/docs/assistants/overview) that makes it easier for developers to build their own ChatGPT-powered apps. Check out some [examples](https://platform.openai.com/examples), that range from the useful such as [Spreadsheet Creator](https://platform.openai.com/examples/default-spreadsheet-gen) or [Python Bug Fixer](https://platform.openai.com/examples/default-fix-python-bugs) to the fun such as [Rap Battle Writer](https://platform.openai.com/examples/default-rap-battle) and [Summarize for a 2nd Grader](https://platform.openai.com/examples/default-summarize).
+One of those was the ability for people to create their own "GPTs" which are ChatGPT-powered apps. Check out some [examples](https://chat.openai.com/gpts/discovery), that range from the useful such as [Data Anaysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis) or [Sous Chef](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef) to the fun such as [genz 4 meme](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme) and [Game Time](https://chat.openai.com/g/g-Sug6mXozT-game-time).
 
 But how can you yourself create such an app? Let's dive in!
+
+*Note: To create your own GPT, you must a) be a* [*ChatGPT "Plus"*](https://openai.com/chatgpt) *subscriber, and b)* [*paid*](https://platform.openai.com/account/billing/) *for at least $5 in API credits.*
+
+# Getting Started
+
+1. From the main [ChatGPT interface](https://chat.openai.com/), go to \[Your name\] &gt; [My GPTs](https://chat.openai.com/gpts/discovery).
+    
+2. Click [Create a GPT](https://chat.openai.com/gpts/editor).
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699591209116/6b2ac760-3c0a-4957-9dff-246b79098a9b.png align="center")
+    
+3. To **Create** a GPT, give it some **Instructions** on how you want it to behave.
+    
+    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699591337423/f2ee75f5-2462-48b1-9354-045e9db68a2f.png align="center")
+    
 
 # Prototyping in the Playground
 
