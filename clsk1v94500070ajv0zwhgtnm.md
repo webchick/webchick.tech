@@ -29,7 +29,7 @@ In this particular person's case, they are interested in learning more about AL/
 
 Sometimes, the [vibe](https://lkml.iu.edu/hypermail/linux/kernel/2401.3/04208.html) of a given open source project precedes it, and you have a pretty good idea what you're about to be walking into. But not always. Here are some things you can look for to try and suss out whether a project is likely to welcome new contributors:
 
-* **Do they have a** [**Code of Conduct**](https://www.contributor-covenant.org/version/1/4/code-of-conduct/)**?** This is normally referenced in their README.md or CONTRIBUTING.md file. A Code of Conduct is generally an indicator of a project striving to be inclusive and welcoming.
+* **Do they have a**[**Code of Conduct**](https://www.contributor-covenant.org/version/1/4/code-of-conduct/)**?** This is normally referenced in their README.md or CONTRIBUTING.md file. A Code of Conduct is generally an indicator of a project striving to be inclusive and welcoming.
     
 * **Does their issue tracker have tags such as \[**[**help wanted**](https://github.com/search?q=label%3Ahelp-wanted&type=issues)**\], \[**[**good first issue**](https://github.com/search?q=label%3Agood-first-issue&type=issues)**\], \[**[**first-timers-only**](https://github.com/search?q=label%3Afirst-timers-only&state=open&type=Issues)**\]?** This is indicative of a community doing some form of "triage" to help make their project more accessible to newcomers.
     
@@ -55,3 +55,5 @@ So take time to read the docs and file issues (or better yet, pull requests) for
 # What are *your* tips/advice?
 
 I'm curious what others would recommend to a new prospective contributor trying to get started on their open source journey? Spout off in the comments! :D
+
+*Cheers to the* [*https://vancouver.dev/*](https://vancouver.dev/) *Discord for prompting this question.*
