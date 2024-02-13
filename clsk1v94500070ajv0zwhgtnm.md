@@ -23,7 +23,7 @@ Here are some questions to help guide you towards a first project:
 * What problem space / use cases do you find fascinating and want to dig in more?
     
 
-In this particular person's case, they are interested in learning more about AL/ML, are strongest in Python, and are familiar with [Pandas](https://github.com/pandas-dev/pandas/), so that is a great combination right there. For me, I was into making websites, and I knew PHP really well, so [Drupal](https://www.drupal.org/) made a lot of sense.
+In this particular person's case, they are interested in learning more about AI/ML, are strongest in Python, and are familiar with [Pandas](https://github.com/pandas-dev/pandas/), so that is a great combination right there. For me, I was into making websites, and I knew PHP really well, so [Drupal](https://www.drupal.org/) made a lot of sense.
 
 # Find a welcoming project
 
