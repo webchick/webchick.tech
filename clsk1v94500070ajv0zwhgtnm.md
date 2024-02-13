@@ -44,7 +44,7 @@ It can be tempting to get super excited, immediately roll up your sleeves, look 
 
 Instead, look around for a place where they talk about their "Community." This could be mailing lists, Slack/Discord servers, Reddit/StackOverflow communities, Meetups, Forums, and more. Whatever it is, join up and spend a bit of time lurking. You can pretty quickly get a sense of how they prefer to work, who the major decision-makers are, how receptive they are to newcomers, etc. so you don't end up wasting time in both directions.
 
-In the case of Pandas, for example, they hold a [New Contributor Meeting](https://pandas.pydata.org/docs/development/community.html#new-contributor-meeting) on the 3rd Wednesday of the month, specifically to answer newcomer questions. Drupal has a [First Time Contributor Workshop](https://www.youtube.com/watch?v=0K0uIgKaVNQ). Both projects have online Slack communities you can join to meet the people behind the projects.
+In the case of Pandas, for example, they hold a [New Contributor Meeting](https://pandas.pydata.org/docs/development/community.html#new-contributor-meeting) on the 3rd Wednesday of the month, specifically to answer newcomer questions. Drupal has a [First Time Contributor Workshop](https://www.youtube.com/watch?v=0K0uIgKaVNQ) at their conferences, recorded for posterity. Both projects have online Slack communities you can join to meet the people behind the projects.
 
 # Start with the Docs
 
