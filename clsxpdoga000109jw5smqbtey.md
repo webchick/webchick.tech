@@ -47,7 +47,7 @@ No, when this happens, there's normally a very simple root cause, which is gener
 
 1. **You have an *alignment* problem:** Your goals/expectations are not in step with your coworkers' and/or your organization's.
     
-2. **You have a *motivation* problem:** You are trying to get people to care about the things you care about, but they don't; they care about *other* things.
+2. **You have a *motivation* problem:** You are trying to get people to care about the things you care about, but they don't; they care about things *they* care about!
     
 3. **You have a *buddy system* problem:** You've been stuck working in a silo and don't have cross-functional colleagues who can speak to what you do.
     
@@ -58,4 +58,4 @@ Well, that's quite a list. Ok wise guy, so how do we mitigate against these, the
 
 Stay tuned! 😎
 
-*Cover Photo by*[*Matthew Henry*](https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*on*[*Unsplash*](https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+*Cover Photo by* [*Matthew Henry*](https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) *on* [*Unsplash*](https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
