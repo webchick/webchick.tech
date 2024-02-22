@@ -8,7 +8,7 @@ tags: community, developer-relations, devrel
 
 ---
 
-*This series is based on a few conversations I've had lately with friends in the DevRel/Community space. It's****tough****out there right now. This is a collection of lessons—most learned the hard way ;)—in the hopes they can help others.*
+*This series is based on a few conversations I've had lately with friends in the DevRel/Community space. It's* ***tough*** *out there right now. This is a collection of lessons—most learned the hard way ;)—in the hopes they can help others.*
 
 We've all been there (or many of us, at least):
 
@@ -58,4 +58,4 @@ Well, that's quite a list. Ok wise guy, so how do we mitigate against these, the
 
 Stay tuned! 😎
 
-*Cover Photo by* [*Matthew Henry*](https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) *on* [*Unsplash*](https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+*Cover Photo by*[*Matthew Henry*](https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*on*[*Unsplash*](https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
