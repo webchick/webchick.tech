@@ -2,7 +2,7 @@
 title: "No one gives a &*^@# about your DevRel/Community Programs (and what to do about it)"
 datePublished: Thu Feb 22 2024 20:56:03 GMT+0000 (Coordinated Universal Time)
 cuid: clsxpdoga000109jw5smqbtey
-slug: no-one-gives-a-about-your-devrelcommunity-programs-and-what-to-do-about-it
+slug: no-one-gives-a-bleep-about-your-devrelcommunity-programs-and-what-to-do-about-it
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708635117293/bc22a11d-19f1-4db1-95c1-ad9f423e84fb.jpeg
 tags: community, developer-relations, devrel
 
