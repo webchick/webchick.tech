@@ -45,7 +45,7 @@ Let's start with some reasons it DOESN'T happen:
 
 No, when this happens, there's normally a very simple root cause, which is generally one or more of the following:
 
-1. **You have an *alignment* problem:** Your goals/expectations are not in step with your coworkers' and/or your organization's.
+1. **You have an *alignment* problem:** Your goals/expectations are not in step with your organization's... or worse, your boss's.
     
 2. **You have a *motivation* problem:** You are trying to get people to care about the things you care about, but they don't; they care about things *they* care about!
     
