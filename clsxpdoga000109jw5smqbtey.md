@@ -20,7 +20,7 @@ So you then do what any of us might do in this situation: **you *desperately* as
 
 But all too often, this is what happens in response:
 
-***"\*\*crickets*\*\*"**
+***\*\*crickets*\*\***
 
 Now you feel defeated, alone, unappreciated, burnt out. Your motivation gets completely sucked out of you. Your developer community starts to suffer in turn. Then your metrics start to get impacted. And now performance review season is upon us...
 
@@ -60,4 +60,4 @@ Well, that's quite a list. Ok wise guy, so how do we mitigate against these, the
 
 Stay tuned! 😎
 
-*Cover Photo by* [*Matthew Henry*](https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) *on* [*Unsplash*](https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+*Cover Photo by*[*Matthew Henry*](https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*on*[*Unsplash*](https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
