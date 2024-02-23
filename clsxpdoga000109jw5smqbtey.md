@@ -60,4 +60,4 @@ Well, that's quite a list. Ok wise guy, so how do we mitigate against these, the
 
 Stay tuned! 😎
 
-*Cover Photo by*[*Matthew Henry*](https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*on*[*Unsplash*](https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+*Cover Photo by* [*Matthew Henry*](https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) *on* [*Unsplash*](https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
