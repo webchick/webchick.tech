@@ -8,7 +8,7 @@ tags: community, developer-relations, devrel
 
 ---
 
-*This series is based on a few conversations I've had lately with friends in the DevRel/Community space. It's* ***tough*** *out there right now. This is a collection of lessons—most learned the hard way ;)—in the hopes they can help others.*
+*This series is based on a few conversations I've had lately with friends in the DevRel/Community space. It's****tough****out there right now. This is a collection of lessons—most learned the hard way ;)—in the hopes they can help others.*
 
 We've all been there (or many of us, at least):
 
@@ -20,7 +20,7 @@ So you then do what any of us might do in this situation: **you *desperately* as
 
 But all too often, this is what happens in response:
 
-***\*\*crickets*\*\***
+***"\*\*crickets*\*\*"**
 
 Now you feel defeated, alone, unappreciated, burnt out. Your motivation gets completely sucked out of you. Your developer community starts to suffer in turn. Then your metrics start to get impacted. And now performance review season is upon us...
 
@@ -47,11 +47,13 @@ No, when this happens, there's normally a very simple root cause, which is gener
 
 1. **You have an *alignment* problem:** Your goals/expectations are not in step with your coworkers' and/or your organization's.
     
-2. **You have a *motivation* problem:** You are trying to get people to care about the things you care about, but they don't; they care about things *they* care about!
+2. **You have a *data* problem**: The work you're doing isn't captured in a way that's visible to the people who make business decisions (like whether or not to continue staffing a DevRel team 😬).
     
-3. **You have a *buddy system* problem:** You've been stuck working in a silo and don't have cross-functional colleagues who can speak to what you do.
+3. **You have a *motivation* problem:** You are trying to get people to care about the things you care about, but they don't; they care about things *they* care about!
     
-4. **You have a *marketing* problem:** You are so busy *doing the work* that you forget to *tell people* about the work that you're doing.
+4. **You have a *buddy system* problem:** You've been stuck working in a silo and don't have cross-functional colleagues who can speak to what you do.
+    
+5. **You have a *marketing* problem:** You are so busy *doing the work* that you forget to *tell people* about the work that you're doing.
     
 
 Well, that's quite a list. Ok wise guy, so how do we mitigate against these, then?
