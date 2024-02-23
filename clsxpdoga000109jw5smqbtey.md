@@ -47,13 +47,13 @@ No, when this happens, there's normally a very simple root cause, which is gener
 
 1. **You have an *alignment* problem:** Your goals/expectations are not in step with your coworkers' and/or your organization's.
     
-2. **You have a *data* problem**: The work you're doing isn't captured in a way that's visible to the people who make business decisions (like whether or not to continue staffing a DevRel team 😬).
+2. **You have a *motivation* problem:** You are trying to get people to care about the things you care about, but they don't; they care about things *they* care about!
     
-3. **You have a *motivation* problem:** You are trying to get people to care about the things you care about, but they don't; they care about things *they* care about!
+3. **You have a *buddy system* problem:** You've been stuck working in a silo and don't have cross-functional colleagues who can speak to what you do.
     
-4. **You have a *buddy system* problem:** You've been stuck working in a silo and don't have cross-functional colleagues who can speak to what you do.
+4. **You have an *awareness* problem:** You are so busy *doing the work* that you forget to *tell people* about the work that you're doing.
     
-5. **You have an *awareness* problem:** You are so busy *doing the work* that you forget to *tell people* about the work that you're doing.
+5. **You have a *data* problem**: The work you're doing isn't captured in a way that's visible to the people who make business decisions (like whether or not to continue staffing a DevRel team 😬).
     
 
 Well, that's quite a list. Ok wise guy, so how do we mitigate against these, then?
