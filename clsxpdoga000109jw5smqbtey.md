@@ -53,7 +53,7 @@ No, when this happens, there's normally a very simple root cause, which is gener
     
 4. **You have a *buddy system* problem:** You've been stuck working in a silo and don't have cross-functional colleagues who can speak to what you do.
     
-5. **You have a *marketing* problem:** You are so busy *doing the work* that you forget to *tell people* about the work that you're doing.
+5. **You have an *awareness* problem:** You are so busy *doing the work* that you forget to *tell people* about the work that you're doing.
     
 
 Well, that's quite a list. Ok wise guy, so how do we mitigate against these, then?
