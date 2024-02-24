@@ -10,6 +10,8 @@ tags: community, developer-relations, devrel
 
 *We're going to do a bit of "back to the basics" first to kick things off, because if you miss any of the steps in this episode, it sets up all of the other episodes after this for pain and heartbreak and tears.*
 
+*(For the back-story on this series, see* [*Episode #0*](https://webchick.hashnode.dev/no-one-gives-a-bleep-about-your-devrelcommunity-programs-and-what-to-do-about-it)*.)*
+
 ---
 
 More likely than not, your company's going to use some goal-setting framework like [OKRs](https://en.wikipedia.org/wiki/Objectives_and_key_results) or [V2MOMs](https://www.salesforce.com/blog/how-to-create-alignment-within-your-company/) or whatever the latest organizational alignment buzzword is at the time of your reading. But even if it's just in sticky notes taped to the fridge in the break room:
