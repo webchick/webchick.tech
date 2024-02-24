@@ -42,7 +42,7 @@ But what are their *other* big problems?
 
 * Are they trying to even *figure out* what product / feature to build?
     
-* Are they trying to make folks aware of the product they've already built?
+* Are they trying to get the word out about the product they've already built?
     
 * Are they trying to get more active users for their product / features?
     
