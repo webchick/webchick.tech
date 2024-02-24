@@ -82,7 +82,9 @@ For example: Let's say the big thing you love to do is speak at conferences. Coo
 
 * ...are in strategic target locations that Field Marketing/Sales cares about
     
-* ...have a number of customers/prospects coming (and see if you can also do a lunch & learn with their developers while you're in the area!)
+* ...have developers in your product's target audience in attendance
+    
+* ...have a number of customers/prospects who are coming (and see if you can also do a lunch & learn with their developers while you're in the area!)
     
 * ...have opportunities to partner with... Partners :)
     
