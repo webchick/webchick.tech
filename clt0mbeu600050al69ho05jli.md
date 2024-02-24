@@ -107,7 +107,7 @@ Propose this plan during one of your 1:1s (usually goals refresh once a quarter,
 
 And finally, you make sure you're syncing on progress (or lack of progress) on these goals regularly so there are no "surprises" at performance review time, in either direction.
 
-🚨 "**Surprises" in the Manager &lt;=&gt; Individual Contributor relationship is ALSO a guaranteed ticket to pain and heartbreak town. Avoid at all costs.** 🚨
+🚨 "**Surprises" in the Manager &lt;=&gt; Individual Contributor relationship ALSO results in a guaranteed ticket to pain and heartbreak town. Avoid at all costs.** 🚨
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
