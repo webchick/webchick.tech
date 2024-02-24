@@ -99,7 +99,7 @@ For example: Let's say the big thing you love to do is speak at conferences. Coo
 
 ## **#3b: Make sure your manager *agrees* with your plans. ;-)**
 
-Write down what you plan to do, how it ties to goals elsewhere in the org, and how you plan to tell if you were successful at it. We'll get more into the wild word of data and measuring impact in a later episode; in the meantime, a good general rule is to make your goals [SMART](https://www.bitesizelearning.co.uk/resources/smart-goals-meaning-examples):
+Write down what you plan to do, how it ties to goals elsewhere in the org, and how you plan to tell if you were successful at it. We'll get more into the wild world of data and measuring impact in a later episode; in the meantime, a good general rule is to make your goals [SMART](https://www.bitesizelearning.co.uk/resources/smart-goals-meaning-examples):
 
 ![](https://images.squarespace-cdn.com/content/v1/6348398d9d21fd6277c64f96/9b283a6f-e42e-42cd-8f20-a7ca06265c9a/SMART+goals+definition.png?format=2500w align="center")
 
