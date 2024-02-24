@@ -8,7 +8,7 @@ tags: community, developer-relations, devrel
 
 ---
 
-*This series is based on a few conversations I've had lately with friends in the DevRel/Community space. It's****tough****out there right now. This is a collection of lessons—most learned the hard way ;)—in the hopes they can help others.*
+*This series is based on a few conversations I've had lately with friends in the DevRel/Community space. It's* ***tough*** *out there right now. This is a collection of lessons learned—most of them the hard way ;)—in the hopes they can help others.*
 
 We've all been there (or many of us, at least):
 
