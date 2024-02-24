@@ -1,5 +1,5 @@
 ---
-title: "No one gives a &*^@# about your DevRel/Community Programs (and what to do about it)"
+title: "No one gives a &*^@# about your DevRel/Community Programs (and what to do about it) #0: The Set Up"
 datePublished: Thu Feb 22 2024 20:56:03 GMT+0000 (Coordinated Universal Time)
 cuid: clsxpdoga000109jw5smqbtey
 slug: no-one-gives-a-bleep-about-your-devrelcommunity-programs-and-what-to-do-about-it
@@ -8,7 +8,7 @@ tags: community, developer-relations, devrel
 
 ---
 
-*This series is based on a few conversations I've had lately with friends in the DevRel/Community space. It's* ***tough*** *out there right now. This is a collection of lessons—most learned the hard way ;)—in the hopes they can help others.*
+*This series is based on a few conversations I've had lately with friends in the DevRel/Community space. It's****tough****out there right now. This is a collection of lessons—most learned the hard way ;)—in the hopes they can help others.*
 
 We've all been there (or many of us, at least):
 
@@ -45,7 +45,7 @@ Let's start with some reasons it DOESN'T happen:
 
 No, when this happens, there's normally a very simple root cause, which is generally one or more of the following:
 
-1. **You have an *alignment* problem:** Your goals/expectations are not in step with your organization's... or worse, your boss's.
+1. **You have an** [***alignment***](https://webchick.hashnode.dev/no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-1-organizational-alignment) **problem:** Your goals/expectations are not in step with your organization's... or worse, your boss's.
     
 2. **You have a *motivation* problem:** You are trying to get people to care about the things you care about, but they don't; they care about things *they* care about!
     
@@ -60,4 +60,7 @@ Well, that's quite a list. Ok wise guy, so how do we mitigate against these, the
 
 Stay tuned! 😎
 
-*Cover Photo by* [*Matthew Henry*](https://unsplash.com/@matthewhenry?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) *on* [*Unsplash*](https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text">Cover Photo by <a target="_blank" rel="noopener noreferrer nofollow" href="https://unsplash.com/@matthewhenry?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" style="pointer-events: none">Matthew Henry</a> on <a target="_blank" rel="noopener noreferrer nofollow" href="https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" style="pointer-events: none">Unsplash</a></div>
+</div>
