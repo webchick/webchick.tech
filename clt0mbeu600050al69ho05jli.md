@@ -8,7 +8,7 @@ tags: community, developer-relations, devrel
 
 ---
 
-*We're going to do a bit of "back to the basics" first to kick things off, because if you miss any of the items in this step, it sets up all of the other steps after this for pain and heartbreak and tears.*
+*We're going to do a bit of "back to the basics" first to kick things off, because if you miss any of the steps in this episode, it sets up all of the other episodes after this for pain and heartbreak and tears.*
 
 ---
 
@@ -20,7 +20,7 @@ And this is honestly harder than it sounds, because it's not like there's ever d
 
 * Onboarding into a new company is intense: you're meeting dozens (or hundreds?) of new names and faces, information is being thrown at you a million miles a minute (which is 1,609,344 km, btw!), and also now WTF your monitor suddenly isn't working, and so you need to file an IT ticket for that, and to do that you need to figure out *how* to do that, and then...
     
-* And being further established in your company is *also* rough because now you're super busy, and so it can be tempting to bookmark that "New Company Goals" page for later (hint: there **never** *is* a later), and skip that company all-hands that talks about the new goals in favour of an extra precious hour of sleep, or...
+* And being further established in your company is *also* rough because now you're super busy, and so it can be tempting to bookmark that "New Company Goals" page for later (hint: there **never***is* a later), and skip that company all-hands that talks about the new goals in favour of an extra precious hour of sleep, or...
     
 
 ![Nope Gif - IceGif](https://www.icegif.com/wp-content/uploads/icegif-38.gif align="left")
