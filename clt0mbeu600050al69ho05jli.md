@@ -65,8 +65,7 @@ What does this mean in practice? Here are a few examples:
 
 | MMMassively Big Organizational Problem™ (MMM-BOP 😉) | How you can contribute in your DevRel/Community role |
 | --- | --- |
-| Brand awareness |  |
-| (aka, "No one knows who the \*&@# we are") | Write tech content aimed at solving common problems in your space, and ensure said content contains popular SEO terms to help bring in organic search traffic. |
+| Brand awareness (aka, "No one knows who the \*&@# we are") | Write tech content aimed at solving common problems in your space, and ensure said content contains popular SEO terms to help bring in organic search traffic. |
 | Partner ecosystem | Partner with *their* DevRel/Community folks on content co-creation, meetup co-hosting, co-speaking opportunities, etc. Bonus: your org gets to benefit from that partner's name recognition/established trust as well! 😎 |
 | Expanding into new regions | Expand your meetups program (or partner with others') to those locations as well, to help "break the ice" by building positive relationships with the local developer community on the ground. |
 | Haemorrhaging customers | Meet with those customers' developers to figure out their pain points and provide concrete recommendations to your product team. |
