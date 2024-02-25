@@ -27,7 +27,7 @@ And this is honestly harder than it sounds, because it's not like there's ever d
 
 ![Nope Gif - IceGif](https://www.icegif.com/wp-content/uploads/icegif-38.gif align="left")
 
-Regardless of how challenging it might be to squeeze in: ***you need to make time for this.*** Otherwise, you risk continuing to toil away on strategy/tactics that maybe made sense 6-12 months ago, but no longer fit where your organization is going.
+Regardless of how challenging it might be to squeeze in: ***you need to make time for this.*** Otherwise, you risk continuing to toil away on strategy & tactics that maybe made sense 6-12 months ago, but no longer fit where your organization is going.
 
 🚨 **Working very hard in a direction your organization doesn't care about (anymore) is a sure-fire recipe for frustration on all sides!** 🚨
 
