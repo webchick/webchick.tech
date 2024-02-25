@@ -10,7 +10,7 @@ tags: community, developer-relations, devrel
 
 *We're going to do a bit of "back to the basics" first to kick things off, because if you miss any of the steps in this episode, it sets up all of the other episodes after this for pain and heartbreak and tears.*
 
-*(For the back-story on this series, see* [*Episode #0*](https://webchick.hashnode.dev/no-one-gives-a-bleep-about-your-devrelcommunity-programs-and-what-to-do-about-it)*.)*
+*(For the back-story on this series, see*[*Episode #0*](https://webchick.hashnode.dev/no-one-gives-a-bleep-about-your-devrelcommunity-programs-and-what-to-do-about-it)*.)*
 
 ---
 
@@ -22,7 +22,7 @@ And this is honestly harder than it sounds, because it's not like there's ever d
 
 * Onboarding into a new company is intense: you're meeting dozens (or hundreds?) of new names and faces, information is being thrown at you a million miles a minute (which is 1,609,344 km, btw!), and also now WTF your monitor suddenly isn't working, and so you need to file an IT ticket for that, and to do that you need to figure out *how* to do that, and then...
     
-* And being further established in your company is *also* rough because now you're super busy, and so it can be tempting to bookmark that "New Company Goals" page for later (hint: there **never** *is* a later), and skip that company all-hands that talks about the new goals in favour of an extra precious hour of sleep, or...
+* And being further established in your company is *also* rough because now you're super busy, and so it can be tempting to bookmark that "New Company Goals" page for later (hint: there **never***is* a later), and skip that company all-hands that talks about the new goals in favour of an extra precious hour of sleep, or...
     
 
 ![Nope Gif - IceGif](https://www.icegif.com/wp-content/uploads/icegif-38.gif align="left")
@@ -116,7 +116,7 @@ And finally, you make sure you're syncing on progress (or lack of progress) on t
 
 ---
 
-Ok, so there's some "101" type information on alignment-building, as well as a proactive heads-up about a few massive pitfalls to avoid. I know this may be yawn-worthy review for some folks out there; I've just seen a *lot* of people in DevRel think they can simply skip over these steps and go do their thing, and this inevitably leads to a **very bad place** later on.
+Ok, so there's some "101" type information on alignment-building, as well as a proactive heads-up about a few massive pitfalls to avoid. I know this may be yawn-worthy review for some folks out there; I've just seen a *lot* of people in DevRel think they can simply skip over these steps and go do their thing, and while this might even work (for some value of "work") for awhile, it inevitably leads to a **very bad place** later on.
 
 In our next episode, we'll discuss building *cross-functional alignment* to address motivation issues, which is your first-class ticket to a magical wonderland filled with sparkles and unicorns and rainbows! ✨🦄🌈
 
