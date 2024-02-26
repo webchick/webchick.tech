@@ -105,7 +105,7 @@ Write down what you plan to do, how it ties to goals elsewhere in the org, and h
 
 Propose this plan during one of your 1:1s (usually goals refresh once a quarter, so a few weeks before that is a good time). Your manager should be able to provide feedback, as well as clearly articulate *their* expectations, what success looks like, and also how they plan to evaluate against that success criteria. This needs to be a **two-way** conversation, as *you* have the best insight into your day-to-day tasks, challenges, what you're hearing on the ground from developers in the community, and also where you personally want to grow in your career. But *they* tend to have more insight into the broader challenges of the business as a whole, as well as what your 👵🏻 "Grand Boss" 👴🏾 in the org chart is most concerned with.
 
-And finally, you make sure you're syncing on progress (or lack of progress) on these goals regularly so there are no "surprises" at performance review time, in either direction.
+And finally, make sure you're syncing on progress (or lack of progress) on these goals regularly so there are no "surprises" at performance review time, in either direction.
 
 🚨 "**Surprises" in the Manager &lt;=&gt; Individual Contributor relationship ALSO results in a guaranteed ticket to pain and heartbreak town. Avoid at all costs.** 🚨
 
