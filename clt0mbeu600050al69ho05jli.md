@@ -1,5 +1,5 @@
 ---
-title: "No one gives a &*^@# about your DevRel/Community Programs (and what to do about it) #1: Organizational Alignment"
+title: "No one gives a &*^@# about your DevRel/Community Programs (and what to do about it) #1: Alignment"
 datePublished: Sat Feb 24 2024 21:53:37 GMT+0000 (Coordinated Universal Time)
 cuid: clt0mbeu600050al69ho05jli
 slug: no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-1-organizational-alignment
