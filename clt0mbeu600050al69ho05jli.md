@@ -8,7 +8,7 @@ tags: community, developer-relations, devrel
 
 ---
 
-*We're going to do a bit of "back to the basics" first to kick things off, because if you miss any of the steps in this episode, it sets up all of the other episodes after this for pain and heartbreak and tears.*
+*We're going to do a bit of "back to the basics" first to kick things off, because if you miss any of the steps in this episode, it sets up everything that comes after this for pain and heartbreak and tears.*
 
 *(For the back-story on this series, see* [*Episode #0*](https://webchick.hashnode.dev/no-one-gives-a-bleep-about-your-devrelcommunity-programs-and-what-to-do-about-it)*.)*
 
