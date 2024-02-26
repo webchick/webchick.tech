@@ -10,7 +10,7 @@ tags: community, developer-relations, devrel
 
 *We're going to do a bit of "back to the basics" first to kick things off, because if you miss any of the steps in this episode, it sets up all of the other episodes after this for pain and heartbreak and tears.*
 
-*(For the back-story on this series, see*[*Episode #0*](https://webchick.hashnode.dev/no-one-gives-a-bleep-about-your-devrelcommunity-programs-and-what-to-do-about-it)*.)*
+*(For the back-story on this series, see* [*Episode #0*](https://webchick.hashnode.dev/no-one-gives-a-bleep-about-your-devrelcommunity-programs-and-what-to-do-about-it)*.)*
 
 ---
 
@@ -118,7 +118,7 @@ And finally, you make sure you're syncing on progress (or lack of progress) on t
 
 Ok, so there's some "101" type information on alignment-building, as well as a proactive heads-up about a few massive pitfalls to avoid. I know this may be yawn-worthy review for some folks out there; I've just seen a *lot* of people in DevRel think they can simply skip over these steps and go do their thing, and while this might even work (for some value of "work") for awhile, it inevitably leads to a **very bad place** later on.
 
-In our next episode, we'll discuss building *cross-functional alignment* to address motivation issues, which is your first-class ticket to a magical wonderland filled with sparkles and unicorns and rainbows! ✨🦄🌈
+In our next episode, we'll discuss building *cross-functional empathy* to address collaboration issues, which is your first-class ticket to a magical wonderland filled with sparkles and unicorns and rainbows! ✨🦄🌈
 
 Sound too good to be true? Stay tuned! 😎
 
