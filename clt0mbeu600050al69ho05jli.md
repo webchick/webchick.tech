@@ -76,7 +76,7 @@ What does this mean in practice? Here are a few examples:
 
 And though this "linking" of your work and activities to Other Peoples' Problems™ (OPP — wow, I'm sure on a (rick)roll here with my ancient song references, huh? ;)) might feel limiting to some, there is actually quite a lot of room for creativity / individuality here.
 
-Think of these as [Creative Constraints](https://ed.ted.com/lessons/the-power-of-creative-constraints-brandon-rodriguez), which are (somewhat counter-intuitively) actually a *positive* thing that lead to more creative/impactful outcomes!
+Think of these as [Creative Constraints](https://ed.ted.com/lessons/the-power-of-creative-constraints-brandon-rodriguez), which are (somewhat counter-intuitively) actually a *positive* thing that lead to more impactful outcomes!
 
 %[https://www.youtube.com/watch?v=v5FL9VTBZzQ] 
 
