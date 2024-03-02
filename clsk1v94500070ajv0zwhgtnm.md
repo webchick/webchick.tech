@@ -75,3 +75,5 @@ This is not to say everything's guaranteed to be sunshine and rainbows in your o
 I'm curious what others would recommend to a new prospective contributor trying to get started on their open source journey? Spout off in the comments! :D
 
 *Cheers to the* [*https://vancouver.dev/*](https://vancouver.dev/) *Discord for prompting this question.*
+
+*Cheers to* [*The Changelog*](https://changelog.com/) *crew for the shout-out in* [*Changelog News - Episode #82*](https://changelog.com/news/82)*.*
