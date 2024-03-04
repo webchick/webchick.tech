@@ -45,7 +45,7 @@ Let's imagine there are two open source projects: Project AllAboutMe and Project
 
 👀 **Pop quiz time: Which of these projects are you more likely to spend your limited, valuable time on?** 👀
 
-Most would answer "AllAboutUs" without hesitation. *And yet.***Many enter into conversations with prospective collaborators with an extremely "AllAboutMe" approach. :-\\**
+Most would answer "AllAboutUs" without hesitation. *And yet.* **Many enter into conversations with prospective collaborators with an extremely "AllAboutMe" approach. :-\\**
 
 # Building Cross-Functional Empathy: Taking an "AllAboutUs" Approach
 
