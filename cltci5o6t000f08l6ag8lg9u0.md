@@ -51,7 +51,7 @@ Most would answer "AllAboutUs" without hesitation. *And yet.* **Many enter into 
 
 So, if you re-frame what you're doing in your role as **building a community of contributors**, and those you need help from outside of your immediate team as **volunteers** (it doesn't matter that they're actually employed, and at your same organization), then you'll start to make some ***very different choices*** about how you approach collaboration:
 
-* **Engage with your contributors *before* asking them to do something for you (and on an ongoing basis).** Rather than firing off a Slack message asking for something, see if you can set up a quick introductory call with prospective contributors where you can both put faces to names and learn more about one another. Apply the [<mark>alignment principles</mark>](https://webchick.tech/no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-1-organizational-alignment) from last time: Find out about *their* goals, motivations, and pain points before you jump in with your own, and look for the Venn diagram between what *you* need and what problems are stressing *them* out.
+* **Engage with your contributors *before* asking them to do something for you (and on an ongoing basis).** Rather than firing off a Slack message asking for something, see if you can set up a quick introductory call with prospective contributors where you can both put faces to names and learn more about one another. Apply the [alignment principles](https://webchick.tech/no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-1-organizational-alignment) from last time: look for the Venn diagram between what *you* need and what problems are stressing *them* out.
     
 * **Make it as *dead-ass simple as possible* for others to help you.** Make sure your "Getting Started" documentation is *excellent*. Operationalize *everything*: Templates. Playbooks. Automations. Put a recurring onboarding session on the calendar, hold office hours on a cadence so they have a way to talk to you. Your contributors have their *own* problems; if you're asking them to spend time on *yours* instead, do everything you can to make it as quick and easy on them as possible.
     
@@ -138,7 +138,7 @@ This all sounds well and good, but how to *find* these prospective partners?
 
 Reach out politely, tell them a little about your background (don't assume they'll necessarily have knowledge of what you or your team does), ask if they'd be open to a quick ~15-30 min chat.
 
-Before you talk, spend a few minutes reading their departmental wiki pages, goals, QBRs if they have them available... so that you're somewhat knowledgeable going in. Through the conversation, give them a chance to talk about their day-to-day, and fill in the blanks about their specific goals, pain points, and possible collaborations they're open to. "Align" it with your own list of needs and... **profit! ;)**
+Before you talk, spend a few minutes reading their departmental wiki pages, goals, QBRs if they have them available... so that you're somewhat knowledgeable going in. Through the conversation, give them a chance to talk about their day-to-day. Find out about *their* goals, motivations, and pain points before you jump in with your own. Figure out possible collaborations they're open to. "Align" it with your own list of needs and... **profit! ;)**
 
 ---
 
