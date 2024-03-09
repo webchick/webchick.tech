@@ -184,7 +184,7 @@ And even when things are super chill and planned out in advance and clicking alo
 
 # So, in summary...
 
-Let's follow our rule of three here. ;) Let's take a page from the Product world:
+Let's follow our Rule of Threes here. ;) Take a page from the Product world:
 
 1. Create a discoverable place to capture all of the things your team could possibly be doing
     
