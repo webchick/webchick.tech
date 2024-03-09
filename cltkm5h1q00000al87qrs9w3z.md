@@ -161,18 +161,18 @@ Any surprises here? Not really:
     
 * Creating tooling around the #1 support issue at first *seems* like a fantastic thing to spend time on (and it also can be super fun!). But here you're mainly impacting *existing* customers vs. new ones, and the confidence and effort scores suffer a bit because it's a brand new thing you're doing (versus the "rinse and repeat" of a workshop) and it requires cross-team collaboration, debugging, and probably ongoing maintenance as well. So it's not a "no," but it may be a "not yet," or it may be something you set aside for a hackathon or some other sort of dedicated development time.
     
-* Whereas, giving a talk in front of the Basketweavers Association? Sorry, but no matter how fiery your passion for basketweaving, if your product targets developers and not basketweavers, and there's no chance anyone in the audience is going to try your product as a result of your talk... this is something probably best kept to individual learning budget (if you can somehow make a work-related connection) or something to pursue in your personal time.
+* Whereas, giving a talk in front of the Basketweavers Association? Sorry, but no matter how fiery your passion for basketweaving, if your product targets developers and not basketweavers, and there's no chance anyone in the audience is going to try your product as a result of your talk... this is something probably best kept to individual learning budget (if you can somehow make basketweaving into a work-related connection) or something to pursue in your personal time.
     
 
 ## #5: Get Math to say "No" so you don't have to
 
 Now, the next time someone approaches you / your team with a request, show them your prioritized list, and explain the factors that you use to rank them and why. (Ideally this is documented somewhere so you don't need to keep repeating this. ;))
 
-At this point, there's a *very* high chance that person does some quick mental math and figures out their idea is never going to rank against your criteria, says "never mind," and goes on about their day. (Still capture it in the backlog, though; prioritization factors can change over time as your organization's strategy shifts.)
+At this point, there's a *very* high chance that person does some quick mental math and figures out their idea is never going to rank against your criteria, says "never mind," and goes on about their day. (Still capture it in the backlog, though; prioritization factors can change over time as your organization's strategy shifts around.)
 
 But if not, and their idea scores strongly against your criteria, fantastic! Now the discussion needs to shift toward **what's moving off the list so the new thing can come on.** (And also *when*, which is hopefully at a future date, so that the team's priorities are not constantly shifting around.)
 
-# How much of this to take on? Enter the "Rule of Threes"
+# How much of this list to take on? Enter the "Rule of Threes"
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1710019891637/9915210e-67ef-48fd-bdf5-01aaf2d4ae53.webp align="center")
 
