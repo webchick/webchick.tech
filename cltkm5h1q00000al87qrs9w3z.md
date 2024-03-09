@@ -45,7 +45,7 @@ You don't want to drop any balls—people are *counting* on you!—so you start 
 
 If you take nothing else from this entire series, here is one thing I would really love for you to remember:
 
-**✨ Your wonderful, genuinely helpful self is an INVALUABLE TREASURE that MUST be protected! And you can't do that without learning how to say "No." ✨**
+**✨ Your wonderful, genuinely helpful self is an INVALUABLE TREASURE that MUST be protected! And you can't do that without FOCUS, and learning how to say "No." ✨**
 
 Clearly saying "yes" all the time is not the way to go. But being a cantankerous grouch who says "no" all the time doesn't seem like the right thing to do, either.
 
