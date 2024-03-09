@@ -59,7 +59,11 @@ Something Product Managers intuitively understand:
 
 # **Every time you say "Yes" to something, you are implicitly saying "No" to a bunch of other things.**
 
-So how do you choose? Well, here are some less-good ways (which often tend to be how we prioritize in DevRel 😬):
+If you take nothing else from this entire series, here is one thing I would like you to remember:
+
+**✨ Your wonderful, genuinely helpful self is an INVALUABLE TREASURE that MUST be protected at all costs! That means you MUST learn how to say NO, and possibly do it a lot. ✨**
+
+So how do you choose what to say "yes" to? Well, here are some less-good ways (which often tend to be how we prioritize in DevRel 😬):
 
 * Who is yelling the loudest?
     
