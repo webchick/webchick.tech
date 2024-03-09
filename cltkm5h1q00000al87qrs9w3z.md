@@ -76,7 +76,7 @@ But how do you choose what to say "yes" to? Well, here are some less-good ways (
 * What does my "gut" tell me?
     
 
-Prioritizing like this might *feel* like you're being productive, at least for awhile. But without a cohesive strategy behind your actions, you risk spreading yourself too thin, leaving higher-impact things on the table collecting dust, and/or toiling away on things no one cares about.
+Prioritizing like this might *feel* like you're being productive, at least for awhile. But without a cohesive strategy behind your actions, you risk spreading yourself too thin, leaving higher-impact things on the table collecting dust, and/or toiling away on things no one else cares about.
 
 What you want to do instead is use **data-driven decision making** to make your choice, and **make your prioritization criteria transparent** so that when people raise objections you're able to "show your work" on your thinking.
 
