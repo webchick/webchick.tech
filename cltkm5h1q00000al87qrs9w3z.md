@@ -47,7 +47,7 @@ If you take nothing else from this entire series, here is one thing I would real
 
 **✨ Your wonderful, genuinely helpful self is an INVALUABLE TREASURE that MUST be protected! ✨**
 
-So clearly saying "yes" all the time is not the way to go. But being a cantankerous grouch who says "no" all the time doesn't seem like the right thing to do either, especially when you're the helpful person that you are.
+So clearly saying "yes" all the time is not the way to go. But being a cantankerous grouch who says "no" all the time doesn't seem like the right thing to do, either.
 
 Luckily, there IS a way forward that your Product buddy might know about.
 
