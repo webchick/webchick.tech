@@ -2,7 +2,7 @@
 title: "No one gives a &*^@# about your DevRel/Community Programs (and what to do about it) #3: Prioritization"
 datePublished: Sat Mar 09 2024 21:44:24 GMT+0000 (Coordinated Universal Time)
 cuid: cltkm5h1q00000al87qrs9w3z
-slug: no-one-gives-a-about-your-devrelcommunity-programs-and-what-to-do-about-it-3-prioritization
+slug: no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-3-prioritization
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/r1UV-_7f5q4/upload/43e295b6f28cd2490e89e4d92fb72492.jpeg
 tags: community, product-management, devrel
 
