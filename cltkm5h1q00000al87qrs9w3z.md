@@ -117,7 +117,7 @@ You want to come up with a small-ish list of factors that when taken together ca
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text"><strong>Tip:</strong> Your prioritization criteria is a <strong>fantastic</strong> thing to discuss with both your manager and your cross-functional buddies. They can validate your thinking, and/or come up with additional things to take into consideration. For example, <strong>Location</strong> (is the idea taking place in a region that Sales is targeting?), <strong>Persona</strong> (Does this idea meaningfully engage people in your "Ideal Customer Profile"?), <strong>Partnership</strong> (can it be done in conjunction one of the Partner Team's strategic partners and thus make it win-win for both?), etc.</div>
+<div data-node-type="callout-text"><strong>Tip:</strong> Your prioritization criteria is a <strong>fantastic</strong> thing to discuss with both your manager and your cross-functional buddies. They can validate your thinking, and/or come up with additional things to take into consideration. For example, <strong>Location</strong> (is the idea taking place in a region that Sales is targeting?), <strong>Persona</strong> (does this idea meaningfully engage people in your "Ideal Customer Profile"?), <strong>Partnership</strong> (can it be done in conjunction one of the Partner Team's strategic partners and thus make it win-win for both?), etc.</div>
 </div>
 
 ## #3: During triage, score each idea against each of your criteria
