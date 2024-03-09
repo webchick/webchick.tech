@@ -43,6 +43,10 @@ You don't want to drop any balls—people are *counting* on you!—so you start 
 
 *(Ask me how I know. :P)*
 
+If you take nothing else from this entire series, here is one thing I would really love for you to remember:
+
+**✨ Your wonderful, genuinely helpful self is an INVALUABLE TREASURE that MUST be protected! ✨**
+
 So clearly saying "yes" all the time is not the way to go. But being a cantankerous grouch who says "no" all the time doesn't seem like the right thing to do either, especially when you're the helpful person that you are.
 
 Luckily, there IS a way forward that your Product buddy might know about.
@@ -59,11 +63,7 @@ Something Product Managers intuitively understand:
 
 # **Every time you say "Yes" to something, you are implicitly saying "No" to a bunch of other things.**
 
-If you take nothing else from this entire series, here is one thing I would like you to remember:
-
-**✨ Your wonderful, genuinely helpful self is an INVALUABLE TREASURE that MUST be protected at all costs! That means you MUST learn how to say NO, and possibly do it a lot. ✨**
-
-So how do you choose what to say "yes" to? Well, here are some less-good ways (which often tend to be how we prioritize in DevRel 😬):
+But how do you choose what to say "yes" to? Well, here are some less-good ways (which often tend to be how we prioritize in DevRel 😬):
 
 * Who is yelling the loudest?
     
