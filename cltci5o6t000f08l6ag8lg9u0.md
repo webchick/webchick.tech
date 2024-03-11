@@ -3,7 +3,7 @@ title: "No one gives a &*^@# about your DevRel/Community Programs (and what to d
 datePublished: Mon Mar 04 2024 05:30:25 GMT+0000 (Coordinated Universal Time)
 cuid: cltci5o6t000f08l6ag8lg9u0
 slug: no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-2-collaboration
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709529864786/648e1d3b-cf57-42bd-96d3-2328ea5fe739.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2PODhmrvLik/upload/fb9dd52ab70275baf831acd358489075.jpeg
 tags: community, career, devrel
 
 ---
@@ -142,11 +142,6 @@ Before you talk, spend a few minutes reading their departmental wiki pages, goal
 
 ---
 
-In our next episode, we'll talk about using best practices from product management to help with **prioritization**, to help ensure you're not just keeping super busy collaborating all over the place, but are instead focusing on the *highest-impact* things. Stay tuned! 😎
+In our next episode, we'll talk about using best practices from product management to help with **prioritization**, to help ensure you're not just keeping super busy collaborating all over the place, but are instead focusing on the *highest-impact* things. Read more in [No one gives a &\*^@# about your DevRel/Community Programs (and what to do about it) #3: Prioritization](https://webchick.tech/no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-3-prioritization).
 
 In the meantime, I'd love to know: what are *your* tips for building relationships and collaborating cross-functionally?
-
-<div data-node-type="callout">
-<div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">Cover Photo by <a target="_blank" rel="noopener noreferrer nofollow" href="https://unsplash.com/@mayurgala?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" style="pointer-events: none">Mayur Gala</a> on <a target="_blank" rel="noopener noreferrer nofollow" href="https://unsplash.com/photos/silhouette-of-persons-hands-forming-heart-2PODhmrvLik?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" style="pointer-events: none">Unsplash</a></div>
-</div>
