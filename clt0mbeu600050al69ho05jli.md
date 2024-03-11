@@ -3,7 +3,7 @@ title: "No one gives a &*^@# about your DevRel/Community Programs (and what to d
 datePublished: Sat Feb 24 2024 21:53:37 GMT+0000 (Coordinated Universal Time)
 cuid: clt0mbeu600050al69ho05jli
 slug: no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-1-organizational-alignment
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708811088654/0a46df50-0918-4a6e-819a-fa181d684c83.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/l3N9Q27zULw/upload/2399c18797f17f6e5cb6e763f859b953.jpeg
 tags: community, developer-relations, devrel
 
 ---
@@ -22,7 +22,7 @@ And this is honestly harder than it sounds, because it's not like there's ever d
 
 * Onboarding into a new company is intense: you're meeting dozens (or hundreds?) of new names and faces, information is being thrown at you a million miles a minute (which is 1,609,344 km, btw!), and also now WTF your monitor suddenly isn't working, and so you need to file an IT ticket for that, and to do that you need to figure out *how* to do that, and then...
     
-* And being further established in your company is *also* rough because now you're super busy, and so it can be tempting to bookmark that "New Company Goals" page for later (hint: there **never** *is* a later), and skip that company all-hands that talks about the new goals in favour of an extra precious hour of sleep, or...
+* And being further established in your company is *also* rough because now you're super busy, and so it can be tempting to bookmark that "New Company Goals" page for later (hint: there **never***is* a later), and skip that company all-hands that talks about the new goals in favour of an extra precious hour of sleep, or...
     
 
 ![Nope Gif - IceGif](https://www.icegif.com/wp-content/uploads/icegif-38.gif align="left")
@@ -120,7 +120,7 @@ Ok, so there's some "101" type information on alignment-building, as well as a p
 
 In our next episode, we'll discuss building *cross-functional empathy* to address collaboration issues, which is your first-class ticket to a magical wonderland filled with sparkles and unicorns and rainbows! ✨🦄🌈
 
-Sound too good to be true? Stay tuned! 😎
+Sound too good to be true? Learn more in [No one gives a &\*^@# about your DevRel/Community Programs (and what to do about it) #2: Collaboration](https://webchick.tech/no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-1-organizational-alignment)
 
 <div data-node-type="callout">
 <div data-node-type="callout-emoji">💡</div>
