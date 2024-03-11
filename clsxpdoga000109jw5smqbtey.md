@@ -3,7 +3,7 @@ title: "No one gives a &*^@# about your DevRel/Community Programs (and what to d
 datePublished: Thu Feb 22 2024 20:56:03 GMT+0000 (Coordinated Universal Time)
 cuid: clsxpdoga000109jw5smqbtey
 slug: no-one-gives-a-bleep-about-your-devrelcommunity-programs-and-what-to-do-about-it
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708635117293/bc22a11d-19f1-4db1-95c1-ad9f423e84fb.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/2Ts5HnA67k8/upload/8c38f2a208a251c6d78a823fb9615dcf.jpeg
 tags: community, developer-relations, devrel
 
 ---
@@ -49,7 +49,7 @@ No, when this happens, there's normally a very simple root cause, which is gener
     
 2. **You have a** [***collaboration***](https://webchick.tech/no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-2-collaboration) **problem:** You are trying to get people to care about the things *you* care about, but they don't; they care about things *they* care about! 😮 And worse, you've been stuck working in a silo and don't have cross-functional colleagues who can speak to what you do.
     
-3. **You have a *prioritization* problem:** You absolutely *love* helping others, so you say YES to ABSOLUTELY EVERYTHING and now you've found yourself in a very bad spot.
+3. **You have a** [***prioritization***](https://webchick.tech/no-one-gives-a-bleep-about-your-devrel-community-programs-and-what-to-do-about-it-3-prioritization) **problem:** You absolutely *love* helping others, so you say YES to ABSOLUTELY EVERYTHING and now you've found yourself in a very bad spot.
     
 4. **You have an *awareness* problem:** You are so busy *doing the work* that you forget to *tell people* about the work that you're doing.
     
@@ -59,8 +59,3 @@ No, when this happens, there's normally a very simple root cause, which is gener
 Well, that's quite a list. Ok wise guy, so how do we mitigate against these, then?
 
 Stay tuned! 😎
-
-<div data-node-type="callout">
-<div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text">Cover Photo by <a target="_blank" rel="noopener noreferrer nofollow" href="https://unsplash.com/@matthewhenry?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" style="pointer-events: none">Matthew Henry</a> on <a target="_blank" rel="noopener noreferrer nofollow" href="https://unsplash.com/photos/pug-covered-with-blanket-on-bedspread-2Ts5HnA67k8?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" style="pointer-events: none">Unsplash</a></div>
-</div>
