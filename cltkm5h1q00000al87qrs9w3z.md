@@ -30,7 +30,7 @@ You see, despite how enthusiastically you want to say "Yes, AND!" to those aroun
 
 * there's a finite number of hours in a day
     
-* there's a finite amount of energy you possess (zeven when fully loaded up on caffeinated beverages)
+* there's a finite amount of energy you possess (even when fully loaded up on caffeinated beverages)
     
 * there's a finite amount of context-switching your poor brain can handle
     
