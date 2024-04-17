@@ -25,7 +25,7 @@ And this is honestly harder than it sounds, because it's not like there's ever d
 * And being further established in your company is *also* rough because now you're super busy, and so it can be tempting to bookmark that "New Company Goals" page for later (hint: there **never***is* a later), and skip that company all-hands that talks about the new goals in favour of an extra precious hour of sleep, or...
     
 
-![Nope Gif - IceGif](https://www.icegif.com/wp-content/uploads/icegif-38.gif align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1713369884978/3f5792eb-aa12-4f48-a0fd-7b987699d6f4.webp align="center")
 
 Regardless of how challenging it might be to squeeze in: ***you need to make time for this.*** Otherwise, you risk continuing to toil away on strategy & tactics that maybe made sense 6-12 months ago, but no longer fit where your organization is going.
 
