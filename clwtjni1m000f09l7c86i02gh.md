@@ -740,3 +740,113 @@ Subset of filtering
 two different indexing/ filtering methods
 
 Starting to see this more and more
+
+Apporaoches
+
+* multi-column indexes
+    
+* remove extra distance
+    
+* pishdown to convering indexes
+    
+* Using other index mechanisms to fiilter data set
+    
+
+LAEGE amounts of dat,a need to work on
+
+pgvector and VACUUM
+
+If I want to delete a vector you can, it hudes then updates.
+
+Can cause slowlness because it's a serial indes buld
+
+hrrd for access method to do that.
+
+Let's make it easier fo parllel vaccum for other indexes
+
+And imlement on diffeten tyable types
+
+HNSW = 1 wee, VACCUM 3 weeka
+
+Distirbuted wueries? Not a big deal yet, but wil become so when query size exceedd memory
+
+probably coming in the future
+
+(See blog post)
+
+Don't get synchronous queries
+
+Add merge append as async options?
+
+no longer a serial lookup across servers.
+
+Do it all at once, merge in
+
+Parlle query, more important for IVDFlat
+
+For some reason it's not chsng parallel plan
+
+Hardware acceleration
+
+pgcector makes big use of this
+
+NOw incorporating from potgewsql
+
+UPcming version 17
+
+"Can weuse GPUs?" &lt;- big topic.
+
+Terea re o\[portunies, but probably on idnex building
+
+Need efficient transefer between areas of moneu
+
+Dogs not barkkng?
+
+Still figuring out vedres
+
+Data doesn't start off there...
+
+MAtrices , Tensors (matreix od vectors)
+
+these might make their ay in.
+
+How would we solve them?
+
+If we already struggle with vector on single page, how do we ape a tensor?
+
+Diff level s of storage / caoacith
+
+Native cector support for PostgreSQL
+
+50M vecroes for transactional application
+
+50M rows -= 50M
+
+But now it's 50GB :O
+
+Native vector support in PostgreSQL might speed up adopton.
+
+Running an extension is hard.
+
+ONe extra step in process.
+
+Esp. if admin needs to install, you don't have perms to do within existing .
+
+Last year already talked about this, consensus was hammer on pgvector to make it fasrer.
+
+Here's the hitlist.
+
+1. Fltering
+    
+    1. Search over subset, not WHOLE dataset
+        
+
+## Community! &lt;3
+
+Peole with strong knowledge of ML + knowledge of DB, dramagic performance gains
+
+Flood of net0new data generation
+
+We'd love to see it in postgreSQL
+
+so let's put it in the best possible place
