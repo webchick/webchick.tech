@@ -307,3 +307,19 @@ BUT.
 Also less confident that they had the right answer.
 
 Less diverse teams HYPER-condident! Even if they're wrong. ;) (AI Hallucinations, anyone? ;))
+
+So, PLEASE think of your users when you write code. :)
+
+## Coda: AI
+
+AI as a user (users submitting erquests bassed on advice / answers given by AI)
+
+AI as a developer
+
+AI — "Best" practice
+
+* It can make doc writing better! (Clearer, more understandable)
+    
+* Declarative / short statements are very yseful, and hard to do
+    
+* Also test assumptions. Ask ChatGPT question you expect it to work the way you think. The answer back may surorise yu! Anf that's what your cutomers will get. ;)
