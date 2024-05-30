@@ -264,4 +264,14 @@ WE DON'T KNOW WHO OUR USERS ARE
 
 So we can't assume they're like us!
 
-But they need what you're building!
+But they **need** what you're building!
+
+And your support team **needs** your participation/attention!
+
+That helps them understand: Where were you coming from and why?
+
+Suggestion; Give it a try for a week!
+
+Promise: Support team will say yes! ;D
+
+Take a week, field tickets, answer calls... get a feel for experience youi're putting your support team and users through. You'll be a better coder for it!
