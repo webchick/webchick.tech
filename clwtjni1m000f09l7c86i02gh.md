@@ -454,4 +454,101 @@ Atomicity — all or nothing
 
 Consistency — follow rules for other dat
 
-Isolutation: Corectness in returned results.
+Isolutation: Corectness in returned results. As soon as data inserted / committed, it's availble! (not true of all systems)
+
+Duraiblkity (most important) — if you say data is stored , want to make sure it's stored
+
+PostgreSQL has supported vectors for a very long time (ever since ARRAY) — cibe but kimited to 100 distances
+
+But distance, not so much.
+
+Lots of options now.
+
+Focus on pgcector — why? It's popular!
+
+Another thing:
+
+lLaama index.
+
+pgvector #2 downloaded vector store
+
+This wasn't a given.
+
+Back in April 2023, it was at the bottm.
+
+## Why pgvector?
+
+Why is pgcetor so popular?
+
+in 2023 "oit was there"
+
+Can use existing native binary &lt;&gt; binary PostgreSQL drivers, really speeds up
+
+2024?
+
+* LTOS of work on pgvector to bring it up to performance
+    
+* Come for usability,s tay for performance :)
+    
+* Actively deveolpoped project. Community buy-in
+    
+
+## pgvector: Year-in-review timeline
+
+* v0.4.x (1-6 2023)
+    
+* * IVFFlat plam costs
+        
+        * 50 ms to 5 sexonds :O — we fixed that
+            
+        
+
+* What do user need? **Faster qyeries,**
+    
+* BUT. Index building matters. Helps with not only high-qialitu searches bit very fast high-uaitu searches
+    
+* But datasets are growing. Need to manage these without taking up too muc space on disk.
+    
+* LARGER vecotrs foundation models, reduin overall data footprint
+    
+
+## Indexing in pgvector
+
+Array are not hard (we had that since 1986) — searching is what's hard.
+
+We took some shortcuts:
+
+* L2Norm vector ‚ Normalize vector
+    
+    * If you look at overall size of it, you reduce magniude to 1.
+        
+    * You can now discard some calculations, (division)
+        
+* INdexing techniques
+    
+* IVFFlat
+    
+    * Have all data pre-loaded, cluster data into centres, and look througb cdntres.
+        
+* HNSW (Graph based)
+    
+    * Some folks were confused about this. PostgreSQL can do graph-based queries?
+        
+    * Graphs are a superset of trees, PostgreSQL can deal with trees.
+        
+    * Index access methods to define custom indeixing.
+        
+* Unlike IVFFalat, you can add data iteratively, and it'll add it to the best place. IVFFlat can skew recall overtime, msjt rebjuild index.
+    
+
+Most indexes are nice and easy, don't require a lot of thought
+
+A bit more comeexProibes...
+
+If I do one probe, fast search, just vectrors in those list.
+
+But might not get closest neigbour
+
+expand to two probes? Longer qyery, but closer neighbours
+
+More sdearch of index better answers, btu ccost of query time
