@@ -552,3 +552,143 @@ But might not get closest neigbour
 expand to two probes? Longer qyery, but closer neighbours
 
 More sdearch of index better answers, btu ccost of query time
+
+HNSW easier on query, but harder on th index side.
+
+m.= # of links between idnexed vectrors
+
+ef\_costructiopn - keeps track of neigbbous you've seen
+
+m = 16 weems to be working, but depends on embedding model
+
+Lots of what we do here is over compensate for embedding model. If it gives us info that's very east to cluste,r we cojuld. use smaller indexing parameters.
+
+How do you build an HNSW index?
+
+Goes through hierarchies
+
+Find te next closest, then tje next...
+
+HNSW query paranters
+
+Next, next next
+
+Keep a list of all the clestt beigbours
+
+## Quantization
+
+reduce amount of information availanle, whole still maintaining original data strucrure
+
+Map to smaller floating points, map to integer alue, but don't change the overall structure of vector
+
+1-byte unit (not supported in pgvector), now you're at 1/8 the size
+
+BINARY quantization... 1 or 0!
+
+Above zero, it's 1, below zero, add it to a zero.
+
+But... tradeoffs
+
+PostgewSQL has amazing feature called expression engines
+
+If oyu have afunction can use to bjild index
+
+G from 4x4 vecror to 2x4 vecor
+
+Keep irigina value and give it smaller value
+
+Los of ninary vecroes look very simolar
+
+Binary = VERY fast recall, but lose
+
+rerank easily: ge real vecor back, get back in correct order
+
+Advangatge son build time
+
+Save space, get smae level of performance ‚ that's godo!
+
+Binary shrinks evenmore, but need to do more work to get adequate recall
+
+## Limitations of Quantization
+
+* You reduce your information
+    
+* "Double data" problem. Gigantic vector in table, smaller vector in index, but could also be a large thing.
+    
+* Pure indexing systems don't do that.
+    
+* Some techniques only work with LARGE vectors. Enough data, you might have a bunch that look the same, impact recall.
+    
+
+## How did pgvector do the past year? (In charts!)
+
+Index build time? 150x speedup!
+
+30-50x speedup even on simpler hardware.
+
+Paralellism - I can use multi cores to speed it up
+
+Concurrent inserts soees it up a lot (0.6)
+
+2 hours better than 10 hours
+
+A few seconds better tnan a few hours
+
+Net impact? Proof build speed matters. (Serial build)
+
+Recall increases as you increase ef\_construction (yhough diminishing return)
+
+With parallelism, see that same recall increase
+
+BUt now minutes of bhuld time!
+
+Now can do smaller index sized
+
+16x better
+
+8x-9x smaller Query ltency p99
+
+Show it worh higher recall
+
+HNSW really improed latency compared to IVFV
+
+More incremental after HNSW
+
+Last but not least throughputing
+
+High concurrency
+
+Epxanded ersion of ??? data set
+
+Recall at 90% with huge throughput
+
+80-90% recall seems to resonate with users
+
+## What can we do better?
+
+"8K Conundrum"
+
+Page = 8K storage unit
+
+Heap pages are reziable, but index pages are not. :(
+
+This is a REAL problem for vecroes.
+
+1536 dim-4 vector = 6KiB
+
+3K vectors= 12KiB
+
+Quantization can hepl deal with this... but they're getting bigger, we can only wuantize so far
+
+### What about TOAST?
+
+4 types f Toast
+
+Most common:
+
+* PLan, kepe vector in table
+    
+* external, keep it outside (default\_
+    
+
+Why this cisual?
