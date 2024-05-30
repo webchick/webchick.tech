@@ -3,7 +3,7 @@ title: "PGConf.dev 2024 Live-Blog"
 datePublished: Thu May 30 2024 17:43:29 GMT+0000 (Coordinated Universal Time)
 cuid: clwtjni1m000f09l7c86i02gh
 slug: pgconfdev-2024-live-blog
-tags: postgresql, databases
+tags: postgresql, databases, developer
 
 ---
 
