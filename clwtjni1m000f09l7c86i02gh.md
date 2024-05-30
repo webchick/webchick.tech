@@ -692,3 +692,51 @@ Most common:
     
 
 Why this cisual?
+
+Oten not searching over teach date
+
+Not main part of query
+
+Vectors are on a "hot path" — primary part pf search. Means the impact is on planner, it treats vecrors as if not in hot path
+
+Sequential scan.
+
+6 workers planned
+
+1.5K = 4 workers
+
+IMprovemtsn. we can make?
+
+* Contonueinvesting in qantization
+    
+* OMprove planner to understand TOAST data pat of hort path
+    
+* TOAST chaingin sstem
+    
+
+How do we index tjhings &gt; 8KB?
+
+TOAST for indexing / page chaining?
+
+:oading multople pages in index search can be slow as wll
+
+Modfiable size fo index pages
+
+Duynamically modifcable?
+
+Filtering - Where clause
+
+Stratgegoes
+
+* Partial
+    
+* Partition — but be careful.. if not parttioning on filter ley run into over-filtering
+    
+
+"Hybrid search"
+
+Subset of filtering
+
+two different indexing/ filtering methods
+
+Starting to see this more and more
