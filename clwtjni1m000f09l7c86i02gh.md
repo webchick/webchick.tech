@@ -45,7 +45,7 @@ Ther'es nothing you can do to make their jobs LESS work. (Can make it erasier, b
 
 When creating a feature or fix, **your utopian case matters!**
 
-**Detail your assumptions.**
+## **Detail your assumptions.**
 
 All problems can be diagnosed as a **variance from an assumed state.**
 
@@ -73,3 +73,35 @@ Most Support contracts are paying the Support team to read the docs for them. :r
 (The PostgreSQL docs are excellent!)
 
 ChatDox, helps find where to look,but shoud not rely on answer from chat. (Hallucinations are a thing.)
+
+## No one upgrades :(
+
+March 2024 - A bit of less than half of their servers were running PG11 or below. 6 were running 9.6 or below. :O
+
+It's great that new versions of PostgreSQL have new features! But, most users aren't going to see those benefits.
+
+ONE WEEK AGO:
+
+[https://www.yugabyte.com/blog/yugabytedb-moves-beyond-postgresql-11/](https://www.yugabyte.com/blog/yugabytedb-moves-beyond-postgresql-11/)
+
+Trouble ticket:
+
+***The password you entered is too long. \*\*\*Windows NT\*\*\* will not accept a user password that is longer than 14 characters.***
+
+8 JANUARY 2024! :O
+
+Reality: Most of the support things they're dealing with isn't because of new features.
+
+That's not what's keeping your support team / customers awake at night. This old stuff is!
+
+**Versions matter.**
+
+Give me the specific version numbers. Give me an SBOM with the dependencies.
+
+**Backward copatibility is critical (and testing that it works!)**
+
+Give me a matrix.
+
+This release has been tested / validated on these versions.
+
+Especially in "ship constantly" era.
