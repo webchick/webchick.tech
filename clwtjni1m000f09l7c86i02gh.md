@@ -105,3 +105,47 @@ Give me a matrix.
 This release has been tested / validated on these versions.
 
 Especially in "ship constantly" era.
+
+Test on the older stuff!
+
+Give us roadmaps!
+
+Ansible announcements: 5 pages of changes coming to the project, but tells me nothing. :(
+
+PostgreSQL, on the other hand, PostgreSQL 17 beta release notes, available for review!
+
+Give me clear roadmaps.  
+Let us know where things are going.
+
+Then w can tell customers when interacting with them what to exoect when. they upgrade.
+
+Because eventually...
+
+## Everyone\* Upgrades
+
+(Just not on the timeframe you expect!)
+
+PostgreSQL release cycle is 3 months.
+
+If an organization releases every 6 months, they can't take every minor release, so we can't expect them to.
+
+So. DOCUMENT and talk about what changed and why.
+
+Especially comapatibility deprtecations / assumptions.
+
+If dropping support for something, BOLD and at the TOP of the release notes.
+
+Don't assume! That just because RedHat 6 is EOL you no longer support it. Call it out explicitly.
+
+10 release window? It's great!
+
+But it's going to create an EXTRAORDINARILY large amount of work for Support team. Backward Compatibility is no longer guaranted.
+
+It creates incentives to upgrade... but also creating a lot of anxiety for them.
+
+But!  
+COmmunity at PostgreSQL let me know this was coming.
+
+That's great! Let us know.
+
+**Release notes are your Support team's best friend. &lt;3**
