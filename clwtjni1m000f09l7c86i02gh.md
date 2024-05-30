@@ -66,8 +66,10 @@ ALL examples are good examples, with a bit of context.
 
 Why? **Users follow examples before reading documentation.**
 
-Users don't read your docs, but SUPPORT team does!
+## Users don't read your docs, but your SUPPORT team does!
 
 Most Support contracts are paying the Support team to read the docs for them. :roll
 
 (The PostgreSQL docs are excellent!)
+
+ChatDox, helps find where to look,but shoud not rely on answer from chat. (Hallucinations are a thing.)
