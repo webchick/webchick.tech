@@ -275,3 +275,28 @@ Suggestion; Give it a try for a week!
 Promise: Support team will say yes! ;D
 
 Take a week, field tickets, answer calls... get a feel for experience youi're putting your support team and users through. You'll be a better coder for it!
+
+## YOU can build a team like YOUR users
+
+You have some influence on the team you're on.
+
+Even as an IC, make suggestions about your team
+
+Help build/influence a team that looks like your user community.
+
+Makes your team stronger!
+
+Add people who are ike.
+
+37% pf IS population not-white
+
+35% of all STEM employees women in 2021.
+
+27% of STEM graduates were women
+
+is your team a quarter women? Is it a quarter non-white?
+
+If not, is your team reflecting your user community? No?  
+**WHY NOT?**
+
+**Variety of perspectives leads to better solutions.**
