@@ -44,10 +44,10 @@ What happens when you make things better?
     
 2. Now there's a new release in the wild!
     
-3. **You just doubled your Support team's work!** (They need to support both the users who updated AND the ones who didn't!)
+3. **You just doubled your Support team's work! :O** (They need to support both the users who upgraded, AND the ones who didn't!)
     
 
-Even reducing code complexity increases support work.
+**Even reducing code complexity increases support work.**
 
 So please keep your users, support engineers, and technical account managers in mind when you're doing coding.
 
@@ -55,50 +55,59 @@ So please keep your users, support engineers, and technical account managers in 
 
 ## **Detail your assumptions.**
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717093497570/c6911feb-6eb0-4168-bf77-b8233a3db21b.jpeg align="center")
+
 When creating a feature or fix, **your utopian case matters!**
 
 All problems can be diagnosed as a **variance from an assumed state.**
 
-"Why did you do it that way?"
+* "Why did you do it that way?"
+    
+* "Why did you assume I *wouldn't* do it that way?"
+    
 
-"Why did you assume I wouldn't do it that way?"
-
-Detailing assumptions makes it WAY eaier for support team to know what's going on
+Detailing assumptions makes it WAY eaier for support team to know what's going on:
 
 * What's it supposed to do?
     
 * What did you test it on?
     
-
-Use cases (EXAMPLES)
+* Use cases (EXAMPLES!)
+    
 
 ALL examples are good examples, with a bit of context.
 
 Why? **Users follow examples before reading documentation.**
 
-## Users don't read your docs, but your SUPPORT team does!
+## Users don't read your docs, *but* your SUPPORT team does!
 
-Most Support contracts are paying the Support team to read the docs for them. :roll
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717093528918/c43a3959-553f-4b22-972e-937c2038ac7a.jpeg align="center")
+
+Most Support contracts are paying the Support team to read the docs for them. 🤣
+
+So have your Support team read your docs *before* release!
 
 (The PostgreSQL docs are excellent!)
 
-ChatDox, helps find where to look,but shoud not rely on answer from chat. (Hallucinations are a thing.)
+Cautionary tale with ChatDox: It's OK to help users find where to look, but should not rely on an answer from AI. (Hallucinations are a thing.)
 
 ## No one upgrades :(
 
-March 2024 - A bit of less than half of their servers were running PG11 or below. 6 were running 9.6 or below. :O
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717093606787/4c2ad8e9-571a-4400-9fb9-91f945932755.jpeg align="center")
 
-It's great that new versions of PostgreSQL have new features! But, most users aren't going to see those benefits.
+March 2024 - One particular customer, a bit of less than half of their servers were still running PostgreSQL 11 (EOL Nov 2023) or below. *6 were running 9.6* (EOL Nov 2021) or below. :O
 
-ONE WEEK AGO:
+**It's great that new versions of PostgreSQL have new features! But, most users aren't going to see those benefits.**
+
+An example from a well-known company from ONE WEEK AGO:
 
 [https://www.yugabyte.com/blog/yugabytedb-moves-beyond-postgresql-11/](https://www.yugabyte.com/blog/yugabytedb-moves-beyond-postgresql-11/)
 
-Trouble ticket:
+Another example: trouble ticket from January 2024:
 
 ***The password you entered is too long. \*\*\*Windows NT\*\*\* will not accept a user password that is longer than 14 characters.***
 
-8 JANUARY 2024! :O
+\[\[ scream face \]\]
 
 Reality: Most of the support things they're dealing with isn't because of new features.
 
@@ -333,3 +342,116 @@ AI — "Best" practice
 * Declarative / short statements are very yseful, and hard to do
     
 * Also test assumptions. Ask ChatGPT question you expect it to work the way you think. The answer back may surorise yu! Anf that's what your cutomers will get. ;)
+    
+
+# Vectors: How to better support a nasty data type
+
+Speaker: Jonathan Katz
+
+Agenda  
+Overview: Why do we care about vector search?  
+Why use PostgreSLQ for vector searches?
+
+Year-in-review of pgvector developmnt
+
+Ongoing work and recommendations
+
+# Why vectors? Why do we care?
+
+30-second summary: Machine-learning models. Typically, needs lots of CPU/GPU power.
+
+But RAG (Retrieval Augmented Generation) is changing this. You can feed private data to
+
+Take data, put it into common represenattion (vector)
+
+erform lookup on database, put into foundation model to get final response.
+
+Vectors used in two parts.
+
+Do we JAVE To use vecgors for this? Can we use sometjong else?  
+You can!
+
+But vecroes provide a common format for data coming from diferent syustems.
+
+Mapping raw information to same machine learning models.
+
+## Challenges working with vectors
+
+* It takes time, there's overhead. 100ms to generate vector representation \* 1M things = LOTS Of time
+    
+* Embedding size (4-byte floats) ... 6KiB is a LOT of data packed into what is normally bytes.
+    
+* 1M rows =&gt; 5.7 GB :O
+    
+* Compressoin? No. Doesm't worl. Can actually end up with a larger number than what you stated iwth
+    
+* Query time; Distance calcuation -look at EVERY value in database!
+    
+* Find similar vector between one and another, you need to looka t ENTIRE sie o f table
+    
+
+So we use ANN =&gt; Approximate nearest neighbour
+
+Not the ENTIRE dataaset.
+
+Faster than exact nearest neigbour
+
+50 vs. 1M lookups
+
+BUt, introduces concept. "Recall" — % of expected results.
+
+not quite 'accuracy" — that deals with exact vlues.
+
+Recall, get 8/10 and mayb e not in the right odder.
+
+Importnat to keep in mind, Affects the overall user epderience
+
+## Key metrics to consider
+
+* Index build time
+    
+* Index size
+    
+    * 1M 6KiB things = 6GB
+        
+* Account for recal;
+    
+* Query throuuput
+    
+* p99 qjery latency
+    
+
+## PostgreSQL as a "vector database"
+
+What is this? JSON!
+
+In the past, take these, put it into relational mapping
+
+What if instead, we just put JSON in directly?
+
+timeline
+
+POsrgreSQL added support for JSON in 2012
+
+BUt JSON is just a data type
+
+Isn't vector just a datbase?
+
+Wjy? use it?
+
+SO much developer tooling bhuilt around postgresql
+
+Became fluent in SQL out of necessity. Tooliung not available for ORMs/
+
+Also, PostgreSQL is a database providing ACID gurantees
+
+Why d oyou care?
+
+Atomicity — all or nothing
+
+* If doing some kind of procedure, I want it stored and roll back if it fails.
+    
+
+Consistency — follow rules for other dat
+
+Isolutation: Corectness in returned results.
