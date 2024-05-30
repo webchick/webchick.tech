@@ -300,3 +300,10 @@ If not, is your team reflecting your user community? No?
 **WHY NOT?**
 
 **Variety of perspectives leads to better solutions.**
+
+Study from Kellogg School of Management. Task, find the murderer. The more diverse the team, the better off their chances.  
+BUT.
+
+Also less confident that they had the right answer.
+
+Less diverse teams HYPER-condident! Even if they're wrong. ;) (AI Hallucinations, anyone? ;))
