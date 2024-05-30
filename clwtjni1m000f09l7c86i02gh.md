@@ -11,7 +11,7 @@ Live blogging a few sessions at the [PostgreSQL Development Conference](https://
 
 # Lessons from the Support Desk
 
-*Speaker: Evan D Macbeth*
+*Speaker:* [*Evan D Macbeth*](https://www.linkedin.com/in/evanmacbeth/)
 
 ## Surface Area vs. Volume
 
@@ -165,3 +165,103 @@ There are only two types of downtime: planned and unplanned. ;)
 Users are not patient. They never upgrade, but they're not patient.
 
 **Set and manage expectations for changes.**
+
+I bet in the PostgreSQL 17 talk they didn't say how long an upgrade from PostgreSQL 16 -&gt; 17 is going to take. ;)
+
+"We can't do that! There are so many variables!"
+
+True! So document your assumptions. I have 100GB database, moving from 16 -&gt; 17, and it took XXX minutes.
+
+Backwards compatibiity SUPER critica
+
+**But PLEASE test.**
+
+And not just the immediate previous version to the new version.
+
+Most customers are running something 6-7 vrsions back.
+
+The more you test, the better off your support team and customers are going to be. :)
+
+This is a lot of work, and a trade-off.
+
+At minimum, test from every major supported version to the latest.
+
+Multiple success paths: give us many ways of successfully completing an upgrade.
+
+Example:
+
+* pg\_upgrade, PostgreSQL dump/restore
+    
+* "rolling" upgrades, buld in flexibiltiy as to what rolls when
+    
+
+## Recovery
+
+Backups, restores very important. Why talking to developers about this? **I want you to try it.**
+
+You built a new fix, a new feature, it works! Super great, yay!
+
+Now, back up the system and try a recovery with your new code in it. ;)
+
+Maybe recovery takes a lot longer now? Something to think about...
+
+If yuor support team is not doing restores from backup all the time, that's a problem. Should be part of standard toolset, muscle memory.
+
+Support team, Customer, even developers!
+
+Why can upgrades take so long? For example, Federal customers. They can't "certify" PostgreSQL because it's open source software so needs to be thoroughly tested and certified themselves.
+
+Can automation help?
+
+## PostgreSQL Users
+
+The most important audience not in the room. :)
+
+**"There are only two industries that call their customers "users" — illegal drugs and software."** — Edward Tufte
+
+Language matters. There's an underlying assumption of "taking" versus being involved in the process.
+
+Open source users a bit different.
+
+Goldfish? They have no memory.
+
+One of the things that's very frustrating for Support but very true...
+
+* They're not going to learn
+    
+* They're not going to remember things
+    
+
+Not because they're bad people.
+
+There's turnover. Lost institutional memory.
+
+So important to remember: they won't necessarily know what they knew before.
+
+But there is a degree to which they are all the same and interchangeable... when they forget things, they revert to a state of commonality.
+
+**Remember: YOU are a User, too!**
+
+Every single person in the room uses PostgreSQL, so you have a perspectve on this. Imagine how frustrated you get when a tool isn't doing te thing the way you want it to dot it! Congrats, you now have user exprience. :) Hold onto that. Because...
+
+## Your Users Are Not Like You.
+
+"The median voter is a 50-something white person who didn't go to college" — the people making the decisions aren't like him.
+
+In a similar fashion, we do not know who our POstgreSQL users are!
+
+This is a big deal. A blind spot.
+
+Timescale has tried to address this, they have a survey it's great.
+
+That survey had 888 respondents.
+
+That is not a statistically significant sample.
+
+Estimated Oracle users is 70 million.
+
+WE DON'T KNOW WHO OUR USERS ARE
+
+So we can't assume they're like us!
+
+But they need what you're building!
