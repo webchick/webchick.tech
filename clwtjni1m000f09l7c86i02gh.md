@@ -15,7 +15,7 @@ Live blogging a few sessions at the [PostgreSQL Development Conference](https://
 
 # Lessons from the Support Desk
 
-*Speaker:* [*Evan D Macbeth*](https://www.linkedin.com/in/evanmacbeth/)
+*Speaker:*[*Evan D Macbeth*](https://www.linkedin.com/in/evanmacbeth/)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717093018794/4d6411e0-59d7-41cf-9d56-46221f21803a.jpeg align="center")
 
@@ -341,8 +341,208 @@ AI — "Best" practice
     
 * Declarative / short statements are very yseful, and hard to do
     
-* Also test assumptions. Ask ChatGPT question you expect it to work the way you think. The answer back may surorise yu! Anf that's what your cutomers will get. ;)
+* Also test assumptions. Ask ChatGPT question you expect it to work the way you think. The answer back may surprise you! And that's what your customers will get. ;)
     
+
+---
+
+# Making PostgreSQL Hacking More Inclusive
+
+Speakers:
+
+[**Amit Langote**  
+**Masahiko Sa**](https://www.pgevents.ca/events/pgconfdev2024/schedule/speaker/48-amit-langote/)[**wada**  
+**Melanie Plage**](https://www.pgevents.ca/events/pgconfdev2024/schedule/speaker/20-masahiko-sawada/)[**man**  
+**Robert H**](https://www.pgevents.ca/events/pgconfdev2024/schedule/speaker/8-melanie-plageman/)[**aas**](https://www.pgevents.ca/events/pgconfdev2024/schedule/speaker/27-robert-haas/)
+
+## The PostgreSQL community is amazing! :D But...
+
+* So,etimes, judge people on things other than quality of their work
+    
+* Sometimes, we extend opportunites to people who are more like us
+    
+* Sometimes, we behave in ways that are mre problematic for some groups of people than others.
+    
+
+**Unfairness is a problem.**
+
+* Looks bad for the project
+    
+* Drive away potential new contributors (and we *need* them!)
+    
+* Drive away / demoralize *existing* contributors, contributes to burnout.
+    
+* Make hacking on PostgreSQL less enjoyable
+    
+
+## Possible reasons for Inequality of Opportunity
+
+* Demographics (race, skin colour, national origin...)
+    
+* Neurodiversity
+    
+* Fluency in Engish
+    
+* ...
+    
+
+## Amit Langote's Story
+
+Going to share some of the experiences that had a lot of impact on me personally psychologically, kept me engaged for 11 years.
+
+Hoping someone with similar background / similar personality might find this relevant or helpful.
+
+I'm not planning to talk for *everyone* who's like me, sharing *my* experience, to bring some benefit to discussion.
+
+### Maintaining Two "Personas" as a PostgreSQL Contributor
+
+* Many of us communicate differently in our personal lives (indirect, nuanced communication) vs. how we need to be successful in PostgreSQL discussions (direct, assertive style).
+    
+    * Maintaining two personas can be draining at times.
+        
+* Inability to be direct and assertive may result in being overlooked or dismissed. People have let me know that this is limiting; I could be more successful if i made certain points in a more direct/assertive manner. Many others can face this same issue. They "have" to be more direct, but they can't... because of their personality or where they are in their journey.
+    
+* Recommendation: Be more understanding / aware there are people with differnt experiences here.
+    
+
+### Challenges of Non-Native English Speakers
+
+* Email comunication strucggles
+    
+    * Difficulty expressing complex thoguhts in email as non-native English speaker
+        
+    * Many folks speak very differently in-person vs. in written communication.
+        
+    * Time-consuming drafting process to sound coherent (especially for "high stakes" conversations), potentially leading to perceived disengagement.
+        
+    * Non-native speakers leading discussions may face reduced engagement / disappearing from community. — it's not that, it's that it takes time to put a response together.
+        
+* What can be done?
+    
+    * **Have Patience**: Allow non-native speakers time to express themselves.
+        
+    * **Use Clear Language**: Avoid jargon and idiomatic expressions (and e.g. sarcasm) for clarity.
+        
+    * **Ask for Clarifications**: Request explanations or provide summaries when needed. (Instead of dismissal.)
+        
+
+### On Giving a Chance
+
+When you first start out, you are nervous, don't know if you'll be taken seriously.
+
+**Entrusting newcomers with important tasks**
+
+* Example: In 2024 Robert, Alvaro, others encouraged me, a relative newcomer, to work on a cricual project (table partitioning) in the commmuity.
+    
+    * This was crucial in my sustained involvement.
+        
+    * Give other newcomers this chance, and we have more folks becoming specialists!
+        
+* Their support, along with backing from in-house managers and colleagues, fueld my enthusiasm for contributing to Postgres hacking.
+    
+
+**Diversifying Community Energy**
+
+* Encouraging newcomers
+    
+* ...
+    
+
+Flipside
+
+* ON the Flipside, when newcomers aim for leadersip roles, experienced members may hesitate, fearing it could ompede project success, which may hinder recruitment of other experienced contributors.
+    
+* Confidende in newcomers' abilities has to be. balanced swith support and mentorship from experienced members.
+    
+
+"Trust, but verify" :)
+
+### Off-List Dynamics
+
+* Off-list collaboration can be very effective:
+    
+    * Strategic planning and sensitive disucssions may require confidentiality.
+        
+    * Building personal relationships and trust through one-on-one interactions.
+        
+    * Addressing urgent matters promptly without the delay od group discussions.
+        
+* However, it may lead to some folks feeling excluded:
+    
+* * Business-level discussions may delay patch acceptance, affecting contributor morale
+        
+        * Be transparency about that to the textnent possible
+            
+        * Help people understand how decisions were mde. Otherwise, can lead to people feeling demoralized.
+            
+    * Engineers investing in patches feel undervalued when decisions rely on off-list interactions that don't involve them.
+        
+        * Cite off-list discussion whenever possible. for transprency.
+            
+
+## Masahiko Sawada
+
+Sharing both my experience and experience of other Japenese hackers' experiences that Iv'e heard of.
+
+* For some, no clear solutions exist.
+    
+
+Not intended as complaints / accusations
+
+### Difficulties with English
+
+* English is a prerequisite
+    
+* Most Japneses ae not good at communcating in Engouh
+    
+* Require time to read and write emails in Engish
+    
+    * Especially when trhing to explain/understand the technically complex things in thread
+        
+* Vice-versaÚ Engish needs time to read Ebglh written by non-native Egljsh soeaker.
+    
+* **Communicate patiently.**
+    
+
+* Communicating in non-native language takes time.
+    
+* Example: At conference, another person patiently tried to make an effort to understand what I was explaining. This stuck with me.
+    
+
+## Discussion in pgsql-hackers
+
+* Misinterpret the "high-context" discussion in pgsql-hackers.
+    
+    * Non-native NEglish speaker may not be a ble to. uderstand it correcty
+        
+    * Could end up givin inappropriate resonse.
+        
+* Experiec e of emails not being replied to or failing to get attention.
+    
+    * Try to understand why emails are not being replied to.
+        
+    * My exlanation in English was not clear? Just not interested in? Or all good? No idea... :(
+        
+    * Cultural: Japanese prefer indirect communciation, esp. for concerns.
+        
+
+* Time zone differences
+    
+* Discission is very active. (140 emails per day)
+    
+* Around 10am UTC / 4apm UTC (evening and nigtht in Asian countries) — happens while we're sleeping
+    
+
+Less opportunity to engage in discussion.
+
+Shifting working hous toEueopean or American time zone
+
+* Occasionally required, e.g. when discussing an imporant topic, near feature freeze, etc.
+    
+* Exaplle: I could participate in discussion live, but it disn't work well.
+    
+
+---
 
 # Vectors: How to better support a nasty data type
 
@@ -499,10 +699,8 @@ Can use existing native binary &lt;&gt; binary PostgreSQL drivers, really speeds
     
 * * IVFFlat plam costs
         
-        * 50 ms to 5 sexonds :O — we fixed that
-            
+        \* 50 ms to 5 sexonds :O — we fixed that
         
-
 * What do user need? **Faster qyeries,**
     
 * BUT. Index building matters. Helps with not only high-qialitu searches bit very fast high-uaitu searches
