@@ -149,3 +149,19 @@ COmmunity at PostgreSQL let me know this was coming.
 That's great! Let us know.
 
 **Release notes are your Support team's best friend. &lt;3**
+
+Please put ALL the details in there! We read them cover-to-cover.
+
+Take the lesson from PostgreSQL for your own projects. Make your release notes as detailed and high-quality as theirs, and your support team will be very happy. ;)
+
+## Everyone Hates Downtime
+
+How many people have been in a meeting with a customer who wants zero downtime? (Lots of people)
+
+How many people believe there is "zero downtime" (no hands :D)
+
+There are only two types of downtime: planned and unplanned. ;)
+
+Users are not patient. They never upgrade, but they're not patient.
+
+**Set and manage expectations for changes.**
