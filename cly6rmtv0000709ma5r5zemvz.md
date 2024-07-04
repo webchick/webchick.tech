@@ -14,7 +14,9 @@ Here was that discussion, if you're curious!
 
 %[https://www.youtube.com/watch?v=A2Zw4Kl3-pk] 
 
-Since I recognize the idea of using essentially "autocomplete on steroids" to tackle real, tangible challenges with executive dysfunction might seem a bit far-fetched, I wanted to also complement that interview with a few specific, pragmatic examples (backed up with "receipts") of how I manage some of my ADHD symptoms with ChatGPT.
+(*Major* shout-out here to [Dusty Chipura](https://www.vancouveradhdcoaching.com/), a renowned ADHD coach who has been *indispensably helpful* to my journey of understanding executive dysfunction, ADHD, and how to manage it. 💖)
+
+Since I recognize that the idea of using essentially "autocomplete on steroids" to tackle real, tangible challenges with executive dysfunction might seem a bit far-fetched, I wanted to also complement that interview with a few specific, pragmatic examples (backed up with "receipts") of how I manage some of my ADHD symptoms with ChatGPT.
 
 ## Analysis Paralysis
 
