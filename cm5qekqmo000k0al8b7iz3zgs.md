@@ -82,7 +82,7 @@ What VCs love is recurring, subscription-based revenue that just magically comes
 
 Here are a few avenues to think about:
 
-* Can you package your knowledge up into an online course subscription that you sell? (And also offer to deliver in-person to teams.)
+* Can you package your knowledge up into an online course subscription that you sell? Esp. on a platform like LinkedIn Learning or Udemy that has existing “reach.” (You can also then offer to deliver this training in-person to teams as a service offering.)
     
 * Can you offer a recurring annual “refresher training” for your customers to get them up to speed on major changes in your industry / new versions of software they use?
     
@@ -98,6 +98,8 @@ Try not to do one-offs. If you put real time/attention into helping someone (a c
 * Re-enact that enlightening conversation you had at a conference in a 5 min video on social media
     
 * Take that code snippet you used to fix that issue and chuck it on GitHub
+    
+* Take that REALLY deep dive you did on that problem and turn it into a downloadable “cheat sheet” or “template” that requires someone to put their email address in to get. ← boom, potential customer.
     
 * etc.
     
