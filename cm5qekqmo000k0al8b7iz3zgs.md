@@ -89,7 +89,7 @@ Here are a few avenues to think about:
 * Can you offer an ongoing bucket of consulting hours to deal with any follow-up work, and stay engaged with them as new projects come down the line you may be a good fit for?
     
 
-## How can you create more visibility out of your expertise?
+## How can you create more visibility around your expertise?
 
 Try not to do one-offs. If you put real time/attention into helping someone (a colleague, a customer, a stranger on the Internet, etc.) see if there’s a way to turn those learnings into content that both demonstrates your expertise and acts as a resource others can learn something from. (Pro-tip: It is MUCH less icky-feeling to reframe Marketing as Trying To Help People, especially when that’s actually the case!)
 
