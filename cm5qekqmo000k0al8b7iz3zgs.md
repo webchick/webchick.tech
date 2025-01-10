@@ -108,6 +108,6 @@ Try not to do one-offs. If you put real time/attention into helping someone (a c
 
 A thing you are going to have to think about is your “pipeline” or “funnel” — in other words, the collection of people / organizations who could potentially be your *next* customers while you’re helping out the current ones.
 
-Way back in the beginning you identified your target personas, right? Go figure out where they hang out—online and in-person—and make sure you’re there too, being as helpful as possible. Host a meetup, help organize a conference, answer questions in Reddit and Discord communities. If you do this on a consistent enough basis, people will start to take notice, and tell their colleagues as well.
+Way back in the beginning you identified your target personas, right? Go figure out where they hang out—online and in-person—and make sure you’re there too, being as helpful as possible. Host a meetup, help organize a conference, answer questions in Reddit and Discord communities. If you do this on a consistent enough basis, people will start to take notice, and tell their colleagues as well. (This is particularly important if the problem you’re trying to help people with is one they don’t like to discuss in public!)
 
 And even if nothing pans out directly from a business opportunity POV, you’re building relationships which expand your network, and you’ll gain a much better understanding of what some of the “hot topics” are among folks in your target personas which you can then turn into… more content. ;-)
