@@ -146,7 +146,7 @@ As far as **Load Balanced** goes, while in theory it seems like this approach wo
 
 Here's the model we have now landed on, where there are clear "Go-To" people identified for various "swim lanes" that cover some aspect of what DevRel does, those individuals *embed* themselves directly within relevant stakeholder teams, and we create one or more "offerings" under each swim lane to make it clear what our team can do for the organization.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749970404401/07a55e51-bdc7-4031-ae2d-bd223cb53616.png align="center")
+![Requests optionally go to the person in charge of a given swim lane — Product Launches, Community Programs, etc. Each swim lane lines up with one of the Cross-Functional Teams [Product, Adoption] and has "Offerings" that support it below such as Meetup in a Box or Code Exchange.](https://cdn.hashnode.com/res/hashnode/image/upload/v1749972674721/2df15f22-420e-47df-9f87-af4fb32b1f59.png align="center")
 
 What does it mean to be a "Go-To" DevReller in this model? For your designated "swim lane"...
 
