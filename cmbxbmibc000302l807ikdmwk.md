@@ -38,7 +38,7 @@ Let's start with the markers of a high quality request intake process:
 
 This is how almost all teams start, as it's the default way for human beings to function, and it can even be the *best* option if both the company and team are sufficiently small.
 
-![A variety of XKCD-styled stick figures organized into two columns: Stakeholders and DevRellers. There are arrows between some but not all, and ?s above the heads of others.](https://cdn.hashnode.com/res/hashnode/image/upload/v1749969917080/f340a129-440a-4663-ad04-6dd0cf4dd275.png align="center")
+![A variety of XKCD-styled stick figures organized into two columns: Stakeholders and DevRellers. There are arrows between some but not all, and ?s above the heads of others.](https://cdn.hashnode.com/res/hashnode/image/upload/v1749973814186/33001233-13ac-4a59-b934-0bb213620853.png align="center")
 
 In this model, stakeholders just reach out to whoever they know from the DevRel team, either because they've worked with them on things in the past, or they're the person who's done the most consistently visible work. The two of them talk about the requests directly, which makes **Cross-Functional, Responsive,** and **Clearly Communicated** a done deal. Nice!
 
@@ -89,7 +89,7 @@ This situation is pretty obviously also not **Inclusive**, and that *particularl
 
 In this approach, you *centralize* request intake and anoint a "Request Captain" to field and distribute incoming requests amongst the team.
 
-![Incoming requests go to one stick figure, who asks "Ok, team... who's got this?" with one person raising their hand.](https://cdn.hashnode.com/res/hashnode/image/upload/v1749970099983/12ab9d13-5d5c-4b53-9005-c8bb025eb38c.png align="center")
+![Incoming requests come to the "Request Captain" who solicits the team for volunteers by asking "Ok, team... who's got this?"](https://cdn.hashnode.com/res/hashnode/image/upload/v1749973841571/88127124-4109-40da-809b-58743de6261c.png align="center")
 
 There are a lot of immediate benefits to this approach: with only one person being the "conduit" for communication inside and outside of the team, we nicely take care of **Clearly Communicated**, **Visible**, and **Inclusive**. Everyone has an opportunity to see requests, respond to requests, and understand who's doing what.
 
@@ -146,7 +146,7 @@ As far as **Load Balanced** goes, while in theory it seems like this approach wo
 
 Here's the model we have now landed on, where there are clear "Go-To" people identified for various "swim lanes" that cover some aspect of what DevRel does, those individuals *embed* themselves directly within relevant stakeholder teams, and we create one or more "offerings" under each swim lane to make it clear what our team can do for the organization.
 
-![Requests optionally go to the person in charge of a given swim lane — Product Launches, Community Programs, etc. Each swim lane lines up with one of the Cross-Functional Teams [Product, Adoption] and has "Offerings" that support it below such as Meetup in a Box or Code Exchange.](https://cdn.hashnode.com/res/hashnode/image/upload/v1749972674721/2df15f22-420e-47df-9f87-af4fb32b1f59.png align="center")
+![Requests optionally go to the person in charge of a given swim lane — Product Launches, Community Programs, etc. Each swim lane lines up with one of the Cross-Functional Teams [Product, Adoption] and has "Offerings" that support it below such as Meetup in a Box or Code Exchange.](https://cdn.hashnode.com/res/hashnode/image/upload/v1749973886542/f8357f8d-5cc6-4887-9026-b443f6573a82.png align="center")
 
 What does it mean to be a "Go-To" DevReller in this model? For your designated "swim lane"...
 
