@@ -9,7 +9,7 @@ tags: devrel, program-management
 
 ---
 
-In our [**last thrilling episode**](https://www.linkedin.com/pulse/building-developer-advocacy-team-from-scratch-1-devrel-angie-byron-i49cc/), we talked about the importance of equipping your team with a **strategic prioritization framework** to help them to reason about incoming requests so they can spend the *majority* of their time on high-impact shit that matters. (And help the rest of the org to understand how and why you prioritize unplanned work the way you do.)
+In our [**last thrilling episode**](https://webchick.hashnode.dev/building-a-developer-advocacy-team-from-scratch-1-devrel-impact-factors), we talked about the importance of equipping your team with a **strategic prioritization framework** to help them to reason about incoming requests so they can spend the *majority* of their time on high-impact shit that matters. (And help the rest of the org to understand how and why you prioritize unplanned work the way you do.)
 
 In *this* episode, I want to share some recent learnings on the evolution of "request intake" for those "unknown unknown" requests on our team, and how we arrived at our latest model, which is *embedding* "Go-To" DevRellers on relevant cross-functional teams, rather than waiting for them to come to us.
 
@@ -167,7 +167,7 @@ How does this work in practice? Let's say someone's swim lane was "AI." That is 
 
 The "Go-To" DevReller for AI would internalize our company's AI strategy, be a subject matter expert on our product's AI features, as well as customer pain points around AI. They would both attend and run key operational meetings about AI, including others from across the company. They would be CCed into any incoming requests and/or key decisions on AI as part of the "core" team. They'd also communicate weekly with stakeholders about the status of DevRel's portion of the AI initiative overall, and make sure that our "outputs" were captured alongside other assets from other teams for reporting purposes.
 
-Their AI roadmap would consist not only of blog posts, code samples, and events they were personally driving, but also the Community Programs person would add AI example projects coming in from the community, the Live Training person would add an AI-oriented workshop they were developing, and so on.
+Their AI roadmap would consist not only of blog posts, code samples, and events they were personally driving, but also the Community Programs person would add AI example projects coming in from the community, the Customer Education person would add an AI-oriented workshop they were developing, and so on.
 
 ### **What happens to things without a "Go-To"?**
 
@@ -211,7 +211,7 @@ This model aims to build **Cross-Functional Partnership** in from the start, wit
 
 * As far as **Safety** goes, we are back to the same cons as Informal Relationships. The *hope* is that more "face time" with stakeholders by being part of their overall crew will help reduce mishaps, but time will tell.
     
-* This model pushes a fair amount of program management work onto DevRellers who tend to range from “shy away from” to “viscerally despise” such work. 🤣
+* This model pushes a fair amount of program management work onto DevRellers whose feelings tend to range from “shy away from” to “viscerally despise” about such work. 🤣
     
 * (Also a Pro) The "Swim Lanes" have to be **dead simple** in order for stakeholders to understand them, which can act as a forcing function for having tough team conversations about areas where folks are stepping on each others' toes.
     
