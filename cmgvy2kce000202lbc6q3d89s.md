@@ -3,6 +3,7 @@ title: "Building a Developer Advocacy Team from Scratch #3: #DevRelTeamOps"
 datePublished: Sat Oct 18 2025 07:16:45 GMT+0000 (Coordinated Universal Time)
 cuid: cmgvy2kce000202lbc6q3d89s
 slug: devrelteamops
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/H3htK85wwnU/upload/4e1d562cb548ca74533904a0de746598.jpeg
 tags: management, devrel
 
 ---
