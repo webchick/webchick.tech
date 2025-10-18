@@ -16,7 +16,7 @@ Here’s a operational framework that *should* work for just about any team of a
 
 ![Comic depicts someone concentrating hard, slowly building a complex flowchart of thought, then a voice intervenes "Hey, do you have 1 sec?" and it goes POOF. The person says "nevermind" and now the character floats around with other disconnected objects in the room thinking "What was I doing?"](https://cdn.hashnode.com/res/hashnode/image/upload/v1760756567025/a70583b0-290f-44a4-9de4-a2330c2545b6.png align="center")
 
-Ahhh, meetings. This is always a tricky subject in any team. Engineers need **lots** of deep focus time, and meetings (especially in the middle of the work day) can utterly destroy this. At the same time, meetings are also the **primary** way (*especially* in a remote company) that you forge strong relationships and stay aligned, both within the team and cross-functionally.
+Ahhh, meetings. This is always a tricky subject in any team. Engineers need **lots** of deep focus time, and meetings (especially in the middle of the work day) can utterly destroy this. At the same time, meetings are also the **primary** way (*especially* in a remote company) that you forge strong interpersonal relationships and stay aligned, both within the team and cross-functionally.
 
 After a few iterations, here’s where we seem to have landed with this as far as **Minimum Viable Meetings™** go:
 
