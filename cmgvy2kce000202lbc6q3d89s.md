@@ -36,14 +36,14 @@ Here’s a breakdown:
     
 * **Social Connection**: It *can’t* be all work, all the time, *especially* with a team as filled with fun and interesting people as ours! :D We alternate every other Friday between **DevRel Code & Tell** (where folks sign up for a slot to share whatever it is they’re working on, and/or we invite speakers from across the org to do the same, and it’s a **fantastic** way to come up to speed on a bunch of interesting tech-y things we wouldn’t otherwise have the chance to learn), and **DevRel Social Chat** where the only rule is you *can’t talk about work* (which means we’ve spent the time on a wide range of things, like learning how to make balloon animals, comparing retro gaming collections, and playing online board games :D). For the rest of the week, there’s the **#devrel-team-fun** channel where we share memes, interesting reads, pictures of our pets, vacation pics, whatever we’re eating that day, etc.
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760771575060/748ae75c-eff1-4348-90b1-d88a0fc1a3a0.png align="center")
+    ![A game of https://skribbl.io/ where someone has drawn a bunch of non-sensical lines with an arrow pointing at the centre](https://cdn.hashnode.com/res/hashnode/image/upload/v1760771575060/748ae75c-eff1-4348-90b1-d88a0fc1a3a0.png align="center")
     
 
 ## Reporting, Planning, and Doing Work
 
 Here comes an eye-chart. Brace yourself! ;-)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760767460947/28ec1e90-64cc-47e5-8408-64ad7f354594.png align="center")
+![A table showing the bullets down below](https://cdn.hashnode.com/res/hashnode/image/upload/v1760767460947/28ec1e90-64cc-47e5-8408-64ad7f354594.png align="center")
 
 This once again appears to be the **Minimum Viable Operations™** we’ve found for our team. Let’s go track by track:
 
@@ -66,7 +66,7 @@ This once again appears to be the **Minimum Viable Operations™** we’ve found
     
 * **Strategic Roadmap**: One reason a DevRel team can get a lot of incoming requests is if other people in the org *don’t know what you’re doing* or *don’t understand what your priorities are and why* or *don’t know when they can expect a thing they are waiting for*. The Strategic Roadmap is your ability to provide up-front answers to all of these questions, not just for stakeholders but for your team as well. It’s also super handy to use if you get an incoming request from out in left field, because it allows you to turn a “no” (which can be uncomfortable) to a *discussion around tradeoffs*, e.g. “which of these things would you recommend we push off in order to take on that request?” to which the answer is often, “um, actually, none of those things. never mind.” :D
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760770553529/cc91511a-04b8-477f-bd2c-64fc31cbab79.png align="center")
+    ![A timeline view showing different topics, events, workshops interspersed together](https://cdn.hashnode.com/res/hashnode/image/upload/v1760770553529/cc91511a-04b8-477f-bd2c-64fc31cbab79.png align="center")
     
     For this one, we set up a project called **DevRel “Game Changers”** (so named in an attempt to mentally shift folks away from “task / ticket” mentality). It contains a limited number of BIG, high-impact things across a number of “evergreen” *themes* (e.g. AI, Accelerated Onboarding, Community Engagement, Operational Efficiency, …) and NOT functional sub-teams, which helps encourage collaboration *across* sub-teams. We update the things in this project weekly, and treat the tasks as “Epics,” adding stakeholders who need to be in the loop as “Collaborators” so they get an email whenever we leave comments about major happenings.
     
