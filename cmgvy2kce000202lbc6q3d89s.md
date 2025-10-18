@@ -20,15 +20,15 @@ Ahhh, meetings. This is always a tricky subject in any team. Engineers need **lo
 
 After a few iterations, here’s where we seem to have landed with this as far as **Minimum Viable Meetings™** go:
 
-![One work week of a calendar depicting the events detailed below.](https://cdn.hashnode.com/res/hashnode/image/upload/v1760758000374/ec030f89-a0f5-488a-bca3-c1d9939a8973.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760804780918/db4294ac-2a03-46ee-8ff8-840319274474.png align="center")
 
-![One week of calendar depicting the events described below](https://cdn.hashnode.com/res/hashnode/image/upload/v1760758041745/b0c3b73d-511f-429e-83ab-bc113e3b279e.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760804798743/46f0e5d1-e5a4-47b7-9464-0c7054932959.png align="center")
 
 Here’s a breakdown:
 
 * **Focus**: To support deep focus time, we created “NO MEETING WEDNESDAYS” (and also try to avoid meetings on Thursdays). Team members are encouraged to stick a day-long “out of office” calendar block on their calendar, which will automatically decline any meetings that are added there.
     
-* **Sprints:** Our team works in two-week sprints, aligned with Product and Engineering. Each team within DevRel has a weekly **Sub-Team Sync** where they field incoming requests and . We do **DevRel Sprint Planning** every other week as a *full* DevRel team (with a **DevRel Mid-Sprint Check-In** on the alternating week) and finish each sprint by showcasing our work at **Company-Wide Sprint Demos**. Once a month, we also hold a **DevRel Retro** and do an anonymized Start / Stop / Continue exercise to drill in on what’s working and not, ending the meeting by assigning out actionable next steps to improve things for next time.
+* **Sprints:** Our team works in two-week sprints, aligned with Product and Engineering. Each team within DevRel has a weekly **Sub-Team Sync** where they field incoming requests and discuss other topics of relevance. We do **DevRel Sprint Planning** every other week as a *full* DevRel team (with a **DevRel Mid-Sprint Check-In** on the alternating week) and finish each sprint by showcasing our work at **Company-Wide Sprint Demos**. Once a month, we also hold a **DevRel Retro** and do an anonymized Start / Stop / Continue exercise to drill in on what’s working and not, ending the meeting by assigning out actionable next steps to improve things for next time.
     
 * **Reporting**: Each week, there’s a **Marketing-Wide Update** meeting, where each functional team provides a status update for their area, raises any blockers, and shares out recent learnings. Once a month, we wrap DevRel’s accomplishments into a newsletter-style update that’s distributed to the whole company, and for that we do a monthly **DevRel Update Co-Working** session where we all bash on this together at the same time (it might sound dull, but this meeting actually doubles as a *lovely* place to regularly celebrate each others’ wins! 🤩).
     
