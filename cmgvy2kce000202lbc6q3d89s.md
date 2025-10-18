@@ -53,7 +53,7 @@ This once again appears to be the **Minimum Viable Operations™** we’ve found
     
 * **Organizational Updates**: It’s important that the people in your reporting chain are aware and up to speed on what you’re doing (and when they can expect things), as well as others in your org to be aware of places for interlock / collaboration. In our company, this is done through the weekly **Marketing Update meeting**, as well as selective cross-posts from our channel into **#topic-marketing** (and/or #topic-sales, #topic-product, etc.)
     
-* **Asset Library**: When our team “ships” something (e.g. blog post, code example, video, event, slide deck, workshop…) it gets logged in a central **Marketing Calendar** project which is syndicated to the company wiki and calendar for org-wide visibility.
+* **Asset Library**: When our team “ships” something (e.g. blog post, code example, video, event, slide deck, workshop…) it gets logged in a central **Marketing Calendar** project which is syndicated to the company wiki and a calendar for org-wide visibility.
     
 * **Newsletter**: Finally, it’s a good idea once a month to put out some more formal comms around your work that wraps those micro-updates and “ships” with some narrative about why we did those things and the impact that they had. We publish a **Monthly DevRel Update** to the whole company that covers our metrics, notable wins, and a preview of what’s coming up next.
     
@@ -75,7 +75,7 @@ This once again appears to be the **Minimum Viable Operations™** we’ve found
 
 * **“Go-To” Area Boards**: Your Strategic Roadmap tracks the Epics, but you still need a place to track nitty-gritty Tasks needed to get these things done. Each of the [“Go-To” DevRellers](https://webchick.tech/go-to-devrellers#heading-phase-3-go-to-devrellers) manages their own projects for their own areas, cross-posting tasks to the DevRel Game Changers and/or DevRel Faces in Places projects, as appropriate. They can set these boards up however they want: kanban-style (e.g. todo, doing, done), by category (e.g. workshop, training, maintenance) ... whatever works best for them!
     
-* **“Crew” Slack Channels**: Often these “Go-To” areas involve collaboration with a bunch of folks from other sub-teams. or those from outside the teams altogether. For this, we spin up **#crew-XX** Slack channels for the working group around a given area, where they can have detailed discussions without adding too much noise to the main channels.
+* **“Crew” Slack Channels**: Often these “Go-To” areas involve collaboration with a bunch of folks from other sub-teams. or those from outside the teams altogether. For this, we spin up **#crew-X** Slack channels for the working group around a given area, where they can have detailed discussions without adding too much noise to the main channels.
     
 * **Office Hours / Co-Working Meetings**: These are great meetings for collaboration, getting feedback, unblocking each other, or [body doubling](https://add.org/the-body-double/) to get the actual work banged out.
     
