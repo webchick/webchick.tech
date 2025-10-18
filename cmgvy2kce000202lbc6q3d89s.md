@@ -13,15 +13,15 @@ Here’s a operational framework that *should* work for just about any team, no 
 
 ## Meetings
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760756567025/a70583b0-290f-44a4-9de4-a2330c2545b6.png align="center")
+![Comic depicts someone concentrating hard, slowly building a complex flowchart of thought, then a voice intervenes "Hey, do you have 1 sec?" and it goes POOF. The person says "nevermind" and now the character floats around with other disconnected objects in the room thinking "What was I doing?"](https://cdn.hashnode.com/res/hashnode/image/upload/v1760756567025/a70583b0-290f-44a4-9de4-a2330c2545b6.png align="center")
 
 Ahhh, meetings. This is always a tricky subject in any team. Engineers need **lots** of deep focus time, and meetings (especially in the middle of the work day) can utterly destroy this. At the same time, meetings are also the **primary** way (*especially* in a remote company) that you forge strong relationships and stay aligned, both within the team and cross-functionally.
 
 After a few iterations, here’s where we seem to have landed with this as far as **Minimum Viable Meetings™** go:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760758000374/ec030f89-a0f5-488a-bca3-c1d9939a8973.png align="center")
+![One work week of a calendar depicting the events detailed below.](https://cdn.hashnode.com/res/hashnode/image/upload/v1760758000374/ec030f89-a0f5-488a-bca3-c1d9939a8973.png align="center")
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1760758041745/b0c3b73d-511f-429e-83ab-bc113e3b279e.png align="center")
+![One week of calendar depicting the events described below](https://cdn.hashnode.com/res/hashnode/image/upload/v1760758041745/b0c3b73d-511f-429e-83ab-bc113e3b279e.png align="center")
 
 Here’s a breakdown:
 
