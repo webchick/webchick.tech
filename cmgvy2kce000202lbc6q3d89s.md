@@ -10,7 +10,7 @@ tags: management, devrel
 
 Our team has been [growing](https://temporal.io/careers#marketing) steadily throughout the year, and while most of the [team foundations](https://webchick.hashnode.dev/building-a-developer-advocacy-team-from-scratch-0-team-foundations) we first set up have remained in place, as we’ve scaled we’ve also had to get a bit more mature with our operations and reporting. Who knew that running a Developer Advocacy Team is like running a travel agency, a content publishing house, and an engineering consultancy *all in one*? 😅
 
-Here’s a operational framework that *should* work for just about any team, no matter what the size or focus, and how we implemented it for [Temporal](https://temporal.io/)’s Developer Advocacy & Community team.
+Here’s a operational framework that *should* work for just about any team, no matter what the size or focus, and how we implemented it for [Temporal](https://temporal.io/)’s Developer Relations team.
 
 ## Meetings
 
