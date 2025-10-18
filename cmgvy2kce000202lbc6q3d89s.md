@@ -51,7 +51,7 @@ This once again appears to be the **Minimum Viable Operations™** we’ve found
 
 * **Micro-Updates:** The team is heavily encouraged to post status updates, pics from events, links to newly created content, etc. to **#topic-devrel**, which is our team channel that’s open to the whole company. This way we get to “drip” important things we’re working on (which helps to somewhat counter-balance the “drip” of incoming requests :D) and we help raise broader awareness of just what the heck it is our team *does* all day.
     
-* **Organizational Updates**: It’s important that the people in your reporting chain are aware and up to speed on what you’re doing (and when they can expect things), as well as others in your org to be aware of places for interlock / collaboration. In our company, this is done through the weekly Marketing Update meeting, as well as selective cross-posts from our channel into **#topic-marketing** (and/or #topic-sales, #topic-product, etc.)
+* **Organizational Updates**: It’s important that the people in your reporting chain are aware and up to speed on what you’re doing (and when they can expect things), as well as others in your org to be aware of places for interlock / collaboration. In our company, this is done through the weekly **Marketing Update meeting**, as well as selective cross-posts from our channel into **#topic-marketing** (and/or #topic-sales, #topic-product, etc.)
     
 * **Asset Library**: When our team “ships” something (e.g. blog post, code example, video, event, slide deck, workshop…) it gets logged in a central **Marketing Calendar** project which is syndicated to the company wiki and calendar for org-wide visibility.
     
